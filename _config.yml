@@ -1,21 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Permalinks
+permalink:        pretty
 
-# Build settings
-markdown: kramdown
+# Setup
+title:            'Alexis Duque'
+tagline:          'PhD student at the CITI Lab of INSA de Lyon in collaboration with Rtone'
+description:      'A student with too many interests'
+url:              http://perso.citi-lab.fr/aduque
+baseurl:          '/'
+paginate:         5
+
+author:
+  name: 'Alexis Duque'
+  email: 'alexis.duque[at]mail[dot]insa-lyon[dot]fr'
+  github: alexisduque
+  twitter: alexis0duque
+  linkedin: alexisduque
+  google_scholar: https://scholar.google.fr/citations?user=P9BIZW0AAAAJ
+  email_md5: 83124b745752d1a1b0ca2eee1af0bd48
+  disqus_shortname: alexisduque
+  bio: PhD student at the CITI Labs / Rtone
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/alexisduque

@@ -1,8 +1,74 @@
 ---
+layout: page
+title: example formatting
+categories: []
+tags: [education, medicine, science, code]
+description: 
+comments: 
+---
+## 2015 ideas
+
+* There is no discovery in policy, whereas there is in science?
+* Market forces dictate pay for a profession/job and this is not driven by contribution to society or even related to it but rather by demand/interest in the job/thing by society 
+* Is it better to dabble in selected but different areas (of med) OR focus on a very specific area or thing
+* What do we know about the costs of doing science? Running a lab in field X of size Y.
+  * What is the variance in lab costs/overhead and is there a relationship between lab funding/money and the impact of the lab's work
+
+
+## New 2014 organization of ideas
+
+* Write about the summer research projects I did as an undergraduate
+* Write about PRAISE volunteering 
+* Write about PRAISE research projects and publications - "conducting research on the side"
+* Write about myGov app idea
+* EMR/EHR - open standard exists? or make one? Need them compatible across systems
+* EMR/EHR - open source system? Where pt can get their own data, standardizes/compatible implementation across clinics, research wing to pull anonymized data, referral system and appointment booking system
+* visiting the doctor - # people who visit and leave with a Rx or Dx, Expectations in a doc appointment, # leave wtih Dx or Rx does it vary across specialties
+* Storing and sharing of data in science/neuroimaging
+* copyright, trademark and patents -> uses, differences, definitions
+
+* Who are my mentors? Whats their value/goal/purpose?
+* The role of medical science in legal deicisions?
+* Is there really a knowledge gap for KT?
+
+## Considerations:
+What you want to say, what your perspective is
+The people who will be reading the post and what they will understand - do you need to explain any particular phrases?
+How you will include or reference literature, artefacts, other posts?
+How you would break the post into readable sections, use images etc.
+------------------------------------------------------------------------------------------
+## Original About text
+
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+
+There are currently two themes built on Poole:
+
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
+
+----------------------------------------------------------------------------------------
 layout: post
 title: Example content
 ---
-
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
@@ -116,7 +182,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>

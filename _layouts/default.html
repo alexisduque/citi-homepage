@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
-
-  <body>
+  
+  <body class="sidebar-overlay">
 
     {% include sidebar.html %}
 
@@ -13,7 +13,7 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
@@ -21,6 +21,9 @@
 
       <div class="container content">
         {{ content }}
+
+        {% include comments.html %}
+
       </div>
     </div>
 
@@ -44,4 +47,7 @@
       })(document);
     </script>
   </body>
+
+  {% include google_analytics.html %}
+
 </html>
