@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: News
 ---
 
 <div class="posts">
@@ -48,4 +48,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
