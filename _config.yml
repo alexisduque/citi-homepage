@@ -1,3 +1,9 @@
+gems:
+  - jekyll/scholar
+  - jekyll-last-modified-at
+
+timezone: Europe/Paris
+
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
@@ -7,8 +13,9 @@ permalink:        pretty
 
 # Setup
 title:            'Alexis Duque'
-tagline:          'PhD student at the CITI Lab of INSA de Lyon, Urbanet Team. Rtone'
-description:      'A student with too many interests'
+
+tagline:          'PhD student at the CITI Lab, INSA Lyon - Urbanet Team, INRIA.'
+description:      'PhD student, CITI Lab.<br>Embedded Soft. Engineer, Rtone.'
 url:              http://perso.citi-lab.fr/aduque
 baseurl:          '/'
 paginate:         5
@@ -22,9 +29,29 @@ author:
   google_scholar: https://scholar.google.fr/citations?user=P9BIZW0AAAAJ
   email_md5: 83124b745752d1a1b0ca2eee1af0bd48
   disqus_shortname: alexisduque
-  bio: PhD student at the CITI Labs / Rtone
+  bio: PhD student at the CITI Lab of INSA de Lyon, Urbanet Team - Embedded Software Engineer at Rtone.
 # Custom vars
 version:          1.0.0
 
 github:
   repo:           https://github.com/alexisduque
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
