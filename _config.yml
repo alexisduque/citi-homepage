@@ -18,7 +18,7 @@ tagline:          'PhD student at the CITI Lab, INSA Lyon - Urbanet Team, INRIA.
 description:      'PhD student, CITI Lab.<br>Embedded Soft. Engineer, Rtone.'
 url:              http://perso.citi-lab.fr/aduque
 baseurl:          '/aduque'
-paginate:         5
+# paginate:         5
 
 author:
   name: 'Alexis Duque'
