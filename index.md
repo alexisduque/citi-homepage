@@ -12,4 +12,3 @@ Chief Executive Officer at [Rtone](http://www.rtone.fr).
 My research subject focuses on Visible Light Communication (VLC) and aims to develop suitable MAC/Application layers for a Smart City environment. Use cases and industrial applications are many, such as indoor localization or infrastructure-to-device communication.
 
 If you like my website, you can follow me on twitter [@alexis0duque](https://twitter.com/{{ site.author.twitter }}) and have a look on my [Google scholar]({{ site.author.google_scholar }}) profile.
-

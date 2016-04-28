@@ -1,0 +1,14 @@
+---
+layout: post
+title: "SIDO 2016"
+date: "2016-04-28 09:36:31 +0200"
+---
+
+On April 7, I participated to the Visible Light Communication workshop organized in
+the context of the SiDO (*Salon de l'Internet des Objet*), in Lyon.
+With Adrien Desportes, Stefan Mangold, and Pascal Faradet, with introduced VLC and its usage in the context
+of the Internet of Things, giving some concrete use cases.
+My [presentation slides](https://speakerdeck.com/alexisduque/using-visible-light-to-make-your-objects-smarter-from-the-laboratory-to-your-home) are
+in the [Talks section]({{ site.baseurl }}/talks)
+
+<script async class="speakerdeck-embed" data-id="8e4e7c23cc0e4433baa9a9cc3c0235fa" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
