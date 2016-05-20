@@ -29,6 +29,8 @@ author:
   email_md5: 83124b745752d1a1b0ca2eee1af0bd48
   disqus_shortname: alexisduque
   bio: PhD student at the CITI Lab of INSA de Lyon, Urbanet Team - Embedded Software Engineer at Rtone.
+  google_analytics_id: 'UA-73113604-1'
+  google_analytics_url: 'auto'
 # Custom vars
 version:          1.0.0
 
