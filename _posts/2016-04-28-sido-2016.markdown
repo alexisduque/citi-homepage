@@ -4,7 +4,7 @@ title: "SIDO 2016"
 date: "2016-04-28 09:36:31 +0200"
 ---
 
-On April 7, I participated to the Visible Light Communication workshop organized in
+On April 7, I've participated in the Visible Light Communication workshop organized in
 the context of the SiDO (*Salon de l'Internet des Objet*), in Lyon.
 With Adrien Desportes, Stefan Mangold, and Pascal Faradet, we introduced VLC and its usage in the context
 of the Internet of Things, giving some concrete use cases.

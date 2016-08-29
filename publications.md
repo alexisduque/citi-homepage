@@ -9,11 +9,11 @@ This page collects my publications.
 
 ## Master Thesis
 
-{% bibliography --query @*MastersThesis %}
+{% reference masterthesis %} [*link*](http://upcommons.upc.edu/handle/2117/78675)
 
 ## Conferences
 
-*Coming Soon*
+{% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146)
 
 ## Journals
 
@@ -21,9 +21,8 @@ This page collects my publications.
 
 ## Posters
 
-*Coming Soon*
+{% reference duque:poster-phd16 %} [*link*]({{ site.baseurl }}/public/phdciti_poster_aduque.pdf)
 
 ## Demos Workshops
 
-*Coming Soon*
-
+{% reference duque:demo-vlcs16 %} [*link*]({{ site.baseurl }}/public/vlcs16-demo-abstract-duque.pdf)

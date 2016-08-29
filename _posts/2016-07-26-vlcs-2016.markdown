@@ -1,0 +1,8 @@
+---
+layout: post
+title: "VLCS 2016 accepted paper and demo"
+date: "2016-07-31 09:36:31 +0200"
+---
+
+The paper "Unleashing the Power of LED-to-Camera Communications for IoT Devices", co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the [VLCS 2016 workshop](http://dartnets.cs.dartmouth.edu/VLCS2016/), to be held at New York, USA, on October 3, in association with the prestigious [ACM MobiCom 2016](http://www.sigmobile.org/mobicom/2016/). \\
+Furthermore, the LED-to-smartphone camera communication system proposed and studied in this paper will be presented during the VLCS demo session.
