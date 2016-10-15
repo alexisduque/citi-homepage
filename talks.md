@@ -2,6 +2,13 @@
 layout: page
 title: Talks
 ---
+## VLCS'16: Unleashing the power of LED-to-camera communications for IoT devices
+
+Paper presentation during the *3rd ACM Workshop on Visible Light Communication Systems* workshop joints with Mobicom 2016, New York (USA), on October 3rd.
+
+*Abstract: In this paper, we propose a line of sight LED-to-camera communication system based on a small color LED and a smartphone. We design a cheap prototype as proof of concept of a near communication framework for the Internet of Things. We evaluate the system performance, its reliability and the environment influence on the LED-to-camera communication, highlighting that a throughput of a few kilobits per second is reachable. Finally, we design a real time, efficient LED detection and image processing algorithm to leverage the specific issues encountered in the system.*
+
+<script async class="speakerdeck-embed" data-id="9fef8432702b4fef8b5d989a7a9aa4cb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Des LEDs pour remplacer votre routeur Wifi ?
 
