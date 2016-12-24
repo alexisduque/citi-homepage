@@ -4,7 +4,7 @@ layout: page
 
 Welcome to my webpage !  
 
-I am working towards my PhD thesis at the [CITI laboratory](http://www.citi-lab.fr) within the INRIA [UrbaNet](http://www.citi-lab.fr/team/urbanet) team, in the framework of French CIFRE fellowships with [Rtone](http://www.rtone.fr).
+I am working towards my PhD thesis at the [CITI laboratory](http://www.citi-lab.fr) within the INRIA [Agora](https://www.inria.fr/en/teams/agora) team, in the framework of French CIFRE fellowships with [Rtone](http://www.rtone.fr).
 
 My PhD is under the joint supervision of [Razvan Stanica](http://perso.citi.insa-lyon.fr/rstanica/) and Adrien Desportes,
 Chief Executive Officer at [Rtone](http://www.rtone.fr).
