@@ -17,6 +17,7 @@ title:            'Alexis Duque'
 tagline:          'PhD student at the CITI Lab, INSA Lyon - Agora Team, INRIA.'
 description:      'PhD student, CITI Lab.<br>Embedded Soft. Engineer, Rtone.'
 url:              http://perso.citi-lab.fr/aduque
+#baseurl:          '/aduque'
 baseurl:          ''
 update: 'October 16, 2016'
 
