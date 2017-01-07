@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Snowcamp 2017"
+date: "2017-01-06 09:44:34 +0200"
+---
+
+![](https://snowcamp2017.sched.com/img/logo.png)
+During the [Snowcamp](http://snowcamp.io//2017/en/welcome), a software developer conference to be held in Grenoble from **February 8 to 10**, I will give a presentation about advanced topics on **Bluetooth Low Energy**
+ and a lightning talk about my research work on Visible Light Communication.
+
+ Talk abstract and schedule (in French) can be found [here](http://sched.co/90Xl). 
