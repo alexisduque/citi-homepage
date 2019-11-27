@@ -1,0 +1,38 @@
+.sidebar {
+	opacity: 1.0;
+}
+
+.sidebar:hover {
+	opacity: 1.0;
+}
+
+.sidebar-logo {
+	padding: 1.5rem;
+}
+
+.sidebar-footer {
+  text-align: center;
+}
+
+.sidebar-logo img {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	width: 160px;
+	margin: 0 auto;
+}
+
+.post-more a {
+    font-size: 80%;
+    color: #999;
+	text-decoration: none;
+	font-style: italic;
+	
+}
+.post-more a:hover {
+    font-size: 80%;
+    color: #303030;
+	text-decoration: none;
+	font-style: italic;
+	
+}

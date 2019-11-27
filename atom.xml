@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Alexis Duque</title>
+ <link href="http://alexisduque.me/atom.xml" rel="self"/>
+ <link href="http://alexisduque.me/"/>
+ <updated>2019-11-27T22:11:06+01:00</updated>
+ <id>http://alexisduque.me</id>
+ <author>
+   <name>Alexis Duque</name>
+   <email>alexis.duque@insa-lyon.fr</email>
+ </author>
+
+ 
+ <entry>
+   <title>Devoxx 2019</title>
+   <link href="http://alexisduque.me/2019/11/03/devoxx-2019/"/>
+   <updated>2019-11-03T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2019/11/03/devoxx-2019</id>
+   <content type="html">&lt;p&gt;From November 03 to 14, I attended the &lt;a href=&quot;http://www.devoxx.be&quot;&gt;Devoxx BE&lt;/a&gt; and the &lt;a href=&quot;http://www.mixitconf.org&quot;&gt;Devoxx Morroco&lt;/a&gt; (Fri, Lyon) conferences.&lt;/p&gt;
+
+&lt;p&gt;During these software developer events, I gave a Tool-in-Action talks about &lt;a href=&quot;https://devoxx.be/talk/?id=37401&quot;&gt;Machine Learning on IoT and Tensorflow Lite&lt;/a&gt; and a lightening talk introducing &lt;a href=&quot;https://devoxx.be/wednesday-schedule/talk?id=38051&quot;&gt;5G&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can watch the recording of both talk on &lt;a href=&quot;https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg&quot;&gt;Devoxx YouTube channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;4a9fb4ad2c014fa09dd685546a9c5f73&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;5e98ea67d45d4240bae4a0d572e06d43&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx 2019</title>
+   <link href="http://alexisduque.me/2019/11/03/lfelc-2019/"/>
+   <updated>2019-11-03T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2019/11/03/lfelc-2019</id>
+   <content type="html">&lt;p&gt;From October 28 to 31, I attended the &lt;a href=&quot;https://events19.linuxfoundation.org/events/open-source-summit-europe-2019/&quot;&gt;Linux Foundation Open Source Summit and Embedded Linux Conference Europe&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During this software developer events, I gave a quick talk about &lt;a href=&quot;https://paclido.fr/lilliput-ae/&quot;&gt;Lilliput-AE&lt;/a&gt;, a lightweight cryptographic block cipher that is a result of the collaborative research project &lt;a href=&quot;https://paclido.fr&quot;&gt;PACLIDO&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;463e6c4123614d2dad936154173c462d&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PhD Defense Presentation Slides</title>
+   <link href="http://alexisduque.me/2018/10/11/defense-slides/"/>
+   <updated>2018-10-11T18:44:34+02:00</updated>
+   <id>http://alexisduque.me/2018/10/11/defense slides</id>
+   <content type="html">&lt;p&gt;Slides of my PhD defense “Bidirectional Visible Light Communications for the Internet of Things” are available here: &lt;a href=&quot;https://speakerdeck.com/alexisduque/phd-defense-bidirectional-visible-light-communications-for-the-internet-of-things&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I will share the manuscript very soon.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;767bd8b707aa4501aa269bebb122459b&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PhD Defense on Monday 9th October</title>
+   <link href="http://alexisduque.me/jekyll/update/2018/10/04/phd-defense/"/>
+   <updated>2018-10-04T12:06:42+02:00</updated>
+   <id>http://alexisduque.me/jekyll/update/2018/10/04/phd-defense</id>
+   <content type="html">&lt;p&gt;After 3 year of intensive at &lt;strong&gt;Rtone&lt;/strong&gt; and in the &lt;strong&gt;AGORA&lt;/strong&gt; of the &lt;strong&gt;CITI Lab&lt;/strong&gt;, I’m proud to announce that I will defend  my PhD thesis &lt;em&gt;“Bidirectional Visible Light Communications for the Internet of Things”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It will take place on &lt;strong&gt;Tuesday October 9th&lt;/strong&gt; starting at 2PM, at the &lt;em&gt;Amphitheater CHAPPE - Department TC, INSA de Lyon, 6 avenue des arts, Villeurbanne&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find an abstract of the thesis and the jury in the following.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-jury-will-be-composed-of&quot;&gt;The jury will be composed of:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Emmanuel CHAPUT&lt;/strong&gt;, Professeur des Universités, INP Toulouse, Rapporteur&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Anne JULIEN-VERGONJANNE&lt;/strong&gt;, Professeur des Universités Univ. Limoges, Rapporteur&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Josep PARADELLS ASPAS&lt;/strong&gt;, Professeur UPC, Rapporteur&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Luc CHASSAGNE&lt;/strong&gt;, Professeur des Universités UVSQ, Examinateur&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Valeria LOSCRI&lt;/strong&gt;, Chargé de Recherche INRIA Lille, Examinateur&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hervé RIVANO&lt;/strong&gt;, Professeur des Universités INSA Lyon, Directeur de thèse&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Razvan STANICA&lt;/strong&gt;, Maître de Conférences INSA Lyon, co Directeur de thèse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;With the exponential growth of the Internet of Things, people now expect every household appliance to be smart and connected. At the same time, smartphones have become ubiquitous in our daily life. Their continuous performance improvement and their compatibility with a broad range of radio protocols as WiFi, Bluetooth Low Energy (BLE) or NFC make them the most convenient way to interact with these smart objects. However, providing wireless connectivity with BLE or NFC means adding an extra chipset and an antenna, increasing the object size and price. Previous works already have demonstrated the possibility of receiving information through visible light using an unmodified smartphone thanks to its camera. Also, LED-to-LED communication for smart devices like toys has been shown previously. However, past efforts in LED to camera communication for IoT device communication have been limited.&lt;/p&gt;
+
+&lt;p&gt;In this work, we design LightIoT, a bidirectional visible-light communication (VLC) system between a low-cost, low-power colored LED that is part of an IoT device and an off-the-shelf smartphone. The IoT device is thus able to send and receive information through its LED, while the smartphone uses its camera to receive data and its flashlight to send information. We implement and experimentally evaluate a LED-to-camera VLC system, designed specifically for small LEDs. The proposed solution exploits the rolling shutter effect of unmodified smartphone cameras and an original decoding algorithm, achieving a throughput of nearly 2 kb/s.
+Based on the insight gained from an extensive experimental study, we model, for the first time in the literature, the LED-to-camera communication channel. We propose a Markov-modulated Bernoulli process model, which allows us to easily study the performance of different message retransmission strategies. We further exploit this model to implement a simulator for LED-to- Camera communications performance evaluation.&lt;/p&gt;
+
+&lt;p&gt;In order to achieve bi-directional communications, we evaluate flashlight-to- LED communications using non-rooted smartphones and small LEDs. With these constraints, our implementation achieves a throughput of 30 bits/second. While limited, this is enough for a feed-back channel coming to support the required redundancy mechanisms. Some of these redundancy mechanisms are based on random linear coding, never tested previously in VLC.
+Therefore, we design and implement, for the first time in the literature, a pseudo random linear coding scheme especially fitted for line-of-sight LED-to-camera conditions. Experimental evaluation highlights that this type of approach increases the goodput up to twice compared to classical retransmission strategies.&lt;/p&gt;
+
+&lt;p&gt;Finally, we compare the energy consumption of LightIoT with the one of a BLE module with similar activity. Our results show that using the LED for communication purposes reduces the energy consumption under a normal usage behavior.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2nd Summer School on Security & Correctness in the IoT</title>
+   <link href="http://alexisduque.me/2018/09/15/spring-shool/"/>
+   <updated>2018-09-15T18:44:34+02:00</updated>
+   <id>http://alexisduque.me/2018/09/15/spring-shool</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://alexisduque.me/public/secweek.png&quot; alt=&quot;drawing&quot; width=&quot;150&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From September 3 to 7, I attended for the second time the &lt;a href=&quot;https://www.securityweek.at/school/&quot;&gt;Summer School on Security &amp;amp; Correctness in the Internet of Things 2018&lt;/a&gt; organized by &lt;a href=&quot;https://www.iaik.tugraz.at/content/about_iaik/&quot;&gt;IAIK&lt;/a&gt;, in Graz, Austria.&lt;/p&gt;
+
+&lt;p&gt;This year, the school was collocated with the &lt;a href=&quot;https://www.securityweek.at&quot;&gt;IoT Security Week&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Top level speakers in the field of security gave presentations about software/hardware attacks and countermeasures: binary exploitation, code reuses/injection, hardware side channels, cache covert channels, formal analysis, lightweight cryptography (LWC), etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://alexisduque.me/public/tugraz.jpg&quot; alt=&quot;St Martin&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SSTIC Part 2</title>
+   <link href="http://alexisduque.me/2018/06/15/sstic-part-2/"/>
+   <updated>2018-06-15T20:03:48+02:00</updated>
+   <id>http://alexisduque.me/2018/06/15/sstic-part-2</id>
+   <content type="html">&lt;p&gt;This post is the second part of my notes I took during the SSTIC this year. The first part is available here: &lt;a href=&quot;/2018/06/13/sstic-part-1/&quot;&gt;SSTIC 2018 Part 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rump--nordic-made-easy&quot;&gt;RUMP : Nordic made easy&lt;/h2&gt;
+&lt;h4 id=&quot;salma-el-mohib&quot;&gt;&lt;em&gt;Salma El Mohib&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Speaker from Digital Security presents 3 python scripts for nRF firmware analysis.
+Problem: How to reverse a nRF firmware with IDA? How to map it in IDA?&lt;/p&gt;
+
+&lt;p&gt;In fact, the nRF soft device use SVCALLS.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;nrfparse.py&lt;/code&gt;: build the knowledge database from all the Nordic SDK and softdevice&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;nrfident.py&lt;/code&gt;: nRF device identification + SDK and Soft Device version to get the memory mapping&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;nrfreverse.py&lt;/code&gt;: used after IDA configuration and firmware disassembly. It parses the assembly code to find SVC opcodes. It selects the appropriate functions prototypes and outputs them in the python output window of IDA pro.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The tool is available on Github: &lt;a href=&quot;https://github.com/DigitalSecurity/nrf5x-tools&quot;&gt;nrf5x-tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rump-arm_now&quot;&gt;RUMP: ARM_Now&lt;/h2&gt;
+&lt;h4 id=&quot;sanson-chaignon&quot;&gt;&lt;em&gt;Sanson Chaignon&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;ARM_Now is a qemu powered tool that allows instant setup of virtual machines on arm CPU, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.&lt;/p&gt;
+
+&lt;p&gt;ARM_Now is available on Github: &lt;a href=&quot;https://github.com/nongiach/arm_now&quot;&gt;arm_now&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;audit-de-sécurité-dun-environnement-docker&quot;&gt;Audit de sécurité d’un environnement Docker&lt;/h2&gt;
+&lt;h4 id=&quot;julien-raeis-matthieu-buffet-anssi&quot;&gt;&lt;em&gt;Julien Raeis, Matthieu Buffet (ANSSI)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Docker is a lightweight virtualization tool for packaging applications and automating the dev/deployment cycle.
+Each application block is a container.
+Each container has all the files it depends on.
+Docker works under windows &amp;amp; Linux.
+For a developer, docker images are black boxes in which the application runs. They often do not master the security of their software execution environment.
+On the security side, this presentation will focus on the part that makes the Docker images turn and how to harden the host environment.&lt;/p&gt;
+
+&lt;p&gt;Windows Docker containers are based on &lt;code&gt;JOBS&lt;/code&gt; kernel objects that provide a &lt;code&gt;CGROUP&lt;/code&gt; equivalent on Linux.
+We can look at the container tree using &lt;code&gt;winobj&lt;/code&gt;.
+Each container is in a silo, and in these silos, we discover the isolation mechanism for the symbolic links to be executed in a separate context.
+On the filesystem side, the NTFS driver has been patched to handle the isolation.
+If it is available, Docker uses Hyper-V to isolate the container and benefits from the Hyper-V isolation mechanism.&lt;/p&gt;
+
+&lt;p&gt;For the audit of a Docker environment, we can control the network interfaces, the permissions on the docker group, mutual authentication by certificates, etc …
+If we do not do it, we expose ourselves to an escalation of privileges via Docker.
+To avoid denials of service, we often limit the consumption of resources via &lt;code&gt;ulimit&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Namespaces should be reviewed, especially those that allow to make IPC, to do &lt;code&gt;ptrace&lt;/code&gt;, etc.&lt;/p&gt;
+
+&lt;p&gt;To facilitate the auditing of namespaces, speakers have developed a tool to generate a graph according to which namespace can access which process.&lt;/p&gt;
+
+&lt;p&gt;Process capabilities can be reduced using the tool &lt;code&gt;pscap&lt;/code&gt;.
+Then we can use the docker commands to reduce these capabilities.
+When the container has access to real-world resources on the Host, it must be ensured that these resources do not allow elevation of privilege to the Host.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Windows Server Containers&lt;/em&gt; are not secure and do not isolate the executed code of the Host. We must therefore favor &lt;em&gt;Hyper-V Containers&lt;/em&gt;, rather than &lt;em&gt;Windows Server Container&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Under Linux, a &lt;code&gt;seccomp&lt;/code&gt; filter is compiled, so if we must decompile it if we want to audit it.&lt;/p&gt;
+
+&lt;p&gt;Speakers worked on a formal Prolog verifier that takes a &lt;code&gt;seccomp&lt;/code&gt; filter as input and evaluates whether or not specific actions can be performed with this filter.&lt;/p&gt;
+
+&lt;p&gt;To improve the containers isolation, it is possible to use &lt;em&gt;Orchestrators&lt;/em&gt; based on virtualization, &lt;em&gt;KAtacontainers&lt;/em&gt; that offer an equivalent of &lt;em&gt;Hyper-V Containers&lt;/em&gt; under windows, &lt;em&gt;gVisor&lt;/em&gt; which is a userland kernel made by Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/audit_de_securite_docker/&quot;&gt;Link to the presentaiton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hardening-a-java-card-virtual-machine-implementation-with-the-mpu&quot;&gt;Hardening a Java Card Virtual Machine Implementation with the MPU&lt;/h2&gt;
+&lt;h4 id=&quot;guillaume-bouffard-léo-gaspard&quot;&gt;&lt;em&gt;Guillaume Bouffard, Léo Gaspard&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;The speaker will introduce how to make a JavaCard JVM hardened using the features of a CPU.
+To obtain a trusted root, you need a secure and robust component in which you can store a cryptographic secret that will cryptographically sign and verify the integrity of some parts (or all) of the trusted system.&lt;/p&gt;
+
+&lt;p&gt;JavaCard technology is based on the JVM that runs on a smart card. There is no open-source implementation, but the majority of JavaCard platforms are evaluated.&lt;/p&gt;
+
+&lt;p&gt;The JVM is often independent of the secure component on which it operates, and the confinement is done at the application level, which at a cost in performance. As a result, the speakers decided to work on this JVM to use the hardware mechanisms of the smart card.
+The Memory Protection Unit is configured in privileged mode and allows setting the read/write/execution restrictions. But these configurations are limited to 8 memory regions, roughly 8 pages of MMU on a conventional CPU. One region can be included in another to refine the insulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/hardening_a_java_card_virtual_machine_implementation_with_the_mpu/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dans-les-coulisses-de-léquipe-sécurité-debian&quot;&gt;Dans les coulisses de l’équipe sécurité Debian&lt;/h2&gt;
+&lt;h4 id=&quot;yves-alexis-perez&quot;&gt;&lt;em&gt;Yves-Alexis Perez&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;The speaker is a volunteer with the Debian security team.
+He will introduce his role in the team and how Debian manages the vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;Only 10 peoples, 5 active, all are volunteers.
+Some other guys help: package maintainers, researchers, project maintainers.&lt;/p&gt;
+
+&lt;p&gt;The team job is to manage the distribution security on stable version (Stretch and Jessy).
+They prepare packages security updates and write security-announce.
+They coordinate with the other teams: developers, etc.&lt;/p&gt;
+
+&lt;p&gt;The Debian security team also contributes to hardening the Debian ecosystem.
+However, they do not work on the platform security (Debian account and keys management, CI, Debian LTS, etc)&lt;/p&gt;
+
+&lt;p&gt;They admin the security tracker website that reports the current distribution security state and publish CVE list.&lt;/p&gt;
+
+&lt;p&gt;The security-tracker is a public git repo. They have private repositories, for instance for threats under embargo.&lt;/p&gt;
+
+&lt;p&gt;They also monitor external mailing lists, and their mail address about vulnerability reports.
+To help them in this task, they have the External-check tool that is a script that grabs the CVE and adds them to a list. The list is curated by the team;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;the vulnerability is identified&lt;/li&gt;
+  &lt;li&gt;the CVE is assigned&lt;/li&gt;
+  &lt;li&gt;a fix is identified&lt;/li&gt;
+  &lt;li&gt;the patch is applied&lt;/li&gt;
+  &lt;li&gt;the package is built locally&lt;/li&gt;
+  &lt;li&gt;the package is uploaded to security-master&lt;/li&gt;
+  &lt;li&gt;the package is built by the build bots&lt;/li&gt;
+  &lt;li&gt;the package is released to the security mirror&lt;/li&gt;
+  &lt;li&gt;security-announce mail is sent&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Different kind of vulnerabilities: public, private and complexes&lt;/p&gt;
+
+&lt;p&gt;In practice, embargo delay the patch and not developed by many people&lt;/p&gt;
+
+&lt;p&gt;Finally, the speaker introduces some example of vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;KRACK&lt;/strong&gt;
+In August, the CERT contact Debian and share all the details, the draft of the paper, and proofs of concept. In October, wpa_supplicant maintainers contact Debian with their current work and patch proposals.
+To conclude, during the embargo, Debian can learn about the vulnerabilities and check that wpa_supplicant patches are working. At the end of the embargo in November, Debian published the update.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meltdown&lt;/strong&gt;: very painful for Debian because it was aware of the vulnerability during the embargo period. Debian got the info about Meltdown the same day as the public. So they can’t get prepared.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/debian-security-team/&quot;&gt;Link to the presentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-practical-guide-to-differential-power-analysis-of-usim-cards&quot;&gt;A Practical Guide to Differential Power Analysis of USIM Cards&lt;/h2&gt;
+&lt;h4 id=&quot;adrian-thillard-christophe-devine-manuel-san-pedro-anssi&quot;&gt;&lt;em&gt;Adrian Thillard, Christophe Devine, Manuel San Pedro (ANSSI)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;The speaker begins introducing Milenage, an algorithm used to derivate the credentials in SIM cards.
+Thanks to Milenage, the phone can authenticate itself on the operator network.
+If an attacker can get secrets from the SIM card, the impact on privacy is huge for the user.
+To do this, we can perform a power consumption variations analysis using an oscilloscope, also known as DPA.
+This allows an attacker to identify the execution steps of the algorithm.
+  from traces of references that are not always very clean because the clock of the card is not super precise.
+We must then re-align the peaks in order to have a proper basis of comparison. On the assumption that the data affects consumption.
+It requires about 4000 of traces to validate the hypothesis using a 400€ oscilloscope and python scripts. The number of traces required can be reduced using better equipment (e.g a 15000€ oscilloscope).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/a_practical_guide_to_differential_power_analysis_of_usim_cards/&quot;&gt;Link to the presentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hacl-une-bibliothèque-de-cryptographie-formellement-vérifiée-dans-firefox&quot;&gt;HACL* une bibliothèque de cryptographie formellement vérifiée dans Firefox&lt;/h2&gt;
+&lt;h4 id=&quot;benjamin-beurdouche-jean-karim-zinzindohoue&quot;&gt;&lt;em&gt;Benjamin Beurdouche, Jean Karim Zinzindohoue&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;The speaker was a member of the INRIA PROCECO team.
+He will introduce HACL*, a formally verified crypto library.
+Writing crypto is not really easy.
+As example, we can have a look at the OpenSSL CVE list: side channel attack, buffer overflow…
+It is also true for NaCl (salt) which is a modern primitive cryptographic library.&lt;/p&gt;
+
+&lt;p&gt;How to improve the situation. How can the community help? Using formal methods.
+Which approach to choose. 3 axes already exit:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using assembly: best performances, no compiler (no bug, no fault introduced), best control on a side channel, ut - specific to the platform&lt;/li&gt;
+  &lt;li&gt;using C: portable, good performance, but introduce a compiler&lt;/li&gt;
+  &lt;li&gt;using a high-level programming language: easy, but slow,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thus they propose HACL (hacl-star) : a library with a small size, but complete, autonomous, written in F&lt;em&gt;, C code generated from F&lt;/em&gt; code, C code is published&lt;/p&gt;
+
+&lt;p&gt;F* is a verification oriented language close to OCaml for proof automation.
+How to produce C code from F&lt;em&gt;?
+F&lt;/em&gt; -&amp;gt; Low* with F* compiler.
+Then KreMLin: Low* -&amp;gt; C (correction proof)&lt;/p&gt;
+
+&lt;p&gt;What is proved: memory safety, execution independency
+Safety memory thanks to F*. IF it compiles, the code is safe from the memory point of view.&lt;/p&gt;
+
+&lt;p&gt;How to prove the code is correct?&lt;/p&gt;
+
+&lt;p&gt;HACL* is faster than C implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/hacl_cryptographie_formellement_verifiee_dans_firefox/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SSTIC Part 1</title>
+   <link href="http://alexisduque.me/2018/06/13/sstic-part-1/"/>
+   <updated>2018-06-13T20:03:48+02:00</updated>
+   <id>http://alexisduque.me/2018/06/13/sstic-part-1</id>
+   <content type="html">&lt;p&gt;From the 13 to 15 June, I was happy to attend for the first time the 0X10 edition of the SSTIC, that traditionally takes place in Rennes every year in June.
+This year, the event gathered 800 participants, mostly security experts, pentesters or researcher, in the luxurious and brand new &lt;em&gt;Couvent des Jacobins&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I will share some of the notes I took during these 3 days of conferences. Unfortunately, I only report the presentations relevant to my field, or that caught my attention: &lt;em&gt;#iot #embedded #hardware #sidechannel&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that the conference proceedings and video recording are already available on the &lt;a href=&quot;sstic&quot;&gt;SSTIC web site&lt;/a&gt;. Awesome!&lt;/p&gt;
+
+&lt;h2 id=&quot;opening-keynote-closed-heterogenous-platforms-and-the-defensive-reverse-engineers-dilemma&quot;&gt;Opening Keynote: Closed, heterogenous platforms and the (defensive) reverse engineers dilemma&lt;/h2&gt;
+&lt;h5 id=&quot;halvar-flake&quot;&gt;Halvar Flake&lt;/h5&gt;
+
+&lt;p&gt;“Halvar Flake” gave us a retrospective on the reverse-engineering from his experiences. In fact,  tools have changed a lot since it started 20 years ago.&lt;/p&gt;
+
+&lt;p&gt;IDA has not changed a lot in 20 years and remains his favorite tool for binary reverse engineering. After 13 years of RE, Halvar made a break of 6-7 years during which he managed dev and security teams. And he came back to RE:&lt;/p&gt;
+
+&lt;p&gt;Many things have evolved: the solvers have become usable to generate entries for programs, a lot of tools for RCE has been developed: r2, frida, angr, …
+But when you try them on real cases, it does not work.
+Example with MPENGINE.DLL for which is difficult to obtain coverage traces.
+The live debug on mobile systems are difficult to get, etc.&lt;/p&gt;
+
+&lt;p&gt;Why does not it work very well? Some reasons are external to the reverse community, others are related to this community.
+Platform providers like iOS or Android sacrifice “debuggability” to stop the reverse for “security” purposes.
+However, that is in favor of “big” players (hackers groups or state hackers) who have the means.
+POn the other side, defenders who do not have the means are left behind.&lt;/p&gt;
+
+&lt;p&gt;Example with iOS, for which you must set up ridiculous and expensive hacks to debug an application correctly.
+Manufacturers are often advised to remove the JTAG, even when physical attacks are not part of the threat model.
+Consequently, we lose observability, breaking the analysis and investigation capabilities of these devices.&lt;/p&gt;
+
+&lt;p&gt;Reducing the access to debugging means on a device decreased the population able to work on its security.
+In fact, fewer hackers make the curing of a platform slower, which benefits real attackers.&lt;/p&gt;
+
+&lt;p&gt;Time-to-market has forced developers to reduce the dev, deployment &amp;amp; testing time.
+So they often work on WIP devices, not very debuggable.
+That complicates the diagnosis of bugs and threats in these applications, reducing their safety.&lt;/p&gt;
+
+&lt;p&gt;The market for RE products is very small and as a result support only between 12 to 60 engineers in the world.&lt;/p&gt;
+
+&lt;p&gt;The “technical” cost of designing RE tools is not covered by benefits because of the small market&lt;/p&gt;
+
+&lt;p&gt;Also, RE scripts, are often written in a hurry and become later tools used in the long run because anything else exists.
+The problem is that the RE community does not take the time to think about the future and invest in it. For instance, they do not pay attention to the memory footprint of scripts, or the ability to distribute the computation on multiple nodes.&lt;/p&gt;
+
+&lt;p&gt;In addition, a large number of RE frameworks have similar features but do not cover all your needs.
+Some of them are far from stable, or CPU/memory efficient.
+Ha said that &lt;em&gt;“It looks like the JavaScript community”&lt;/em&gt;, and a lot of stuff is done twice or three times, on X frameworks.
+And they are sometimes developed in a hurry, just before CFP deadlines.&lt;/p&gt;
+
+&lt;p&gt;Also, in the literature, many problems have been “solved”, but in reality, for everyday work, these tools are far from keeping their promises.
+In fact, published results are rarely reproducible, data are not available, and sources are rarely published.
+Consequently, when we read a paper, we can no longer distinguish if the author exaggerates, or if the problem has been really solved.&lt;/p&gt;
+
+&lt;p&gt;The RE tools often focus on the source code and the recovery of the latter, but rarely on the understanding of the software package we reverse.&lt;/p&gt;
+
+&lt;p&gt;Finally, Halvar introduce some proposals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;it is necessary that the developers of software or hardware platforms make them debuggable to facilitate the analysis.&lt;/li&gt;
+  &lt;li&gt;it would be necessary to find a way to exchange the RE data, using a standard step to move from the binary to the assembler, to the assembler to CFG, etc&lt;/li&gt;
+  &lt;li&gt;intermediate representation adapted to the different data used and generated by the reverse tools should be standardized. Thus, we could switch from one tool to another without having to re-develop all existing scripts &amp;amp; tools for this new framework&lt;/li&gt;
+  &lt;li&gt;a Linux distribution for the reverse as there is for the pentest, on which we could have all the necessary tools&lt;/li&gt;
+  &lt;li&gt;to improve the reliability of RE tools, we need data to test and validate them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With the cloud, any software can run on machines all over the world. But debugging in the cloud is painful because there is no “cloud debugger” to manage such system.
+Dealing with CPU/GPU/μC/FPGA infrastructures is a big challenge for RE tools.
+These components are not well documented. Thus, a vulnerability on this type of components will be very difficult to manage for defenders (e.g. Spectre / Meltdown …)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/2018_ouverture/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;backdooring-your-server-but-its-bmc-the-hpe-ilo4-case&quot;&gt;Backdooring your server, but its BMC: the HPE iLO4 case&lt;/h2&gt;
+&lt;h5 id=&quot;alexandre-gazet-fabien-perigaud-joffrey-czarny-airbus&quot;&gt;Alexandre Gazet, Fabien Perigaud, Joffrey Czarny (Airbus)&lt;/h5&gt;
+
+&lt;p&gt;This talk presents the pentest of the iLO4 HP system and some critical vulnerabilities the author found.
+iLO systems are widely used by many server manufacturers as a stand-alone and independent ARM-based chipset with its own RAM and network interface.
+This system starts as soon as the server is powered.
+These iLOs are exposed on production VLANs, and often exposed even on the internet.
+A first exploit allows them to retrieve information in memory on the system managed by the iLO and write code arbitrarily to obtain a shell via netcat on the main server.&lt;/p&gt;
+
+&lt;p&gt;The iLOs web service have been the subject of two CVEs in 2017.
+The webservice makes a massive use of &lt;code&gt;scanf&lt;/code&gt; to parse HTTP headers.
+Unfortunately, there are some buffer overflows, with one in the &lt;code&gt;Connection&lt;/code&gt; header that allows an attacker to overwrite a variable, ann thus bypass the authentication and access the REST API of the iLO with admin rights.&lt;/p&gt;
+
+&lt;p&gt;Relying on this RCE, the speakers have worked on the ILO firmware to patch the bootloader, to later patch the kernel and insert a backdoor in the userland, in the iLO flash memory.
+The authors choose the web server as the target to install the backdoor since it has all the communication primitives, along with a DMA access to the memory of the main machine.&lt;/p&gt;
+
+&lt;p&gt;To install the backdoor in the Linux system, an attacker must create a thread in the kernel, allocate memory for the communication channel between the iLO and the Linux, and set up the execution primitives of the commands received on the memory buffer&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/subverting_your_server_through_its_bmc_the_hpe_ilo4_case/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;t-brop---taint-based-return-oriented-programming&quot;&gt;T-Brop - Taint-based Return Oriented Programming&lt;/h2&gt;
+&lt;h5 id=&quot;colas-le-guernic-francois-khourbiga-anssi&quot;&gt;Colas Le Guernic, Francois KHOURBIGA (ANSSI)&lt;/h5&gt;
+
+&lt;p&gt;The speaker began introducing the exploitation of a buffer overflow vulnerability by re-using the existing code in the binary. They reminded the protection that must be circumvented.&lt;/p&gt;
+
+&lt;p&gt;Code reuse attacks reuse bits of code, called &lt;em&gt;gadget&lt;/em&gt;.
+These gadgets often en with a &lt;code&gt;ret&lt;/code&gt; instruction.
+The DEP is not enough, it must also use the CFI, etc …&lt;/p&gt;
+
+&lt;p&gt;To find these gadgets in a binary, 2 approaches exist:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the syntactical approach, where the tool makes a &lt;code&gt;grep&lt;/code&gt; in the program (e.g. rp++)&lt;/li&gt;
+  &lt;li&gt;the symbolic approach, where the tool does it in symbolic. It is more efficient but is very costly in time (e.g. angrop).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With RP ++, it is fast but we are fig to build the ROP chain using &lt;code&gt;grep&lt;/code&gt; &lt;em&gt;à la mano&lt;/em&gt; the gadgets we want.
+With angrop, it is very and can take between 15 in &lt;em&gt;fast mode&lt;/em&gt; and hours.&lt;/p&gt;
+
+&lt;p&gt;In order to take the best of these 2 approaches, the speakers propose, &lt;em&gt;T-Brop&lt;/em&gt;, a hybrid approach that is faster than symbolic analysis, and more expressive than syntactical approaches.
+So we have a tool less efficient than syntactic but faster than the symbolic.&lt;/p&gt;
+
+&lt;p&gt;T-Brop is a little faster (7min) and offers some interesting gadgets based on &lt;code&gt;rsp&lt;/code&gt; &amp;amp; &lt;code&gt;esp&lt;/code&gt;, or data above the stack.
+In a nutshell, Angrop is good for &lt;em&gt;highway&lt;/em&gt; cases, RP++ is for regexp lovers, and T-Brop sometimes offers some tricky stuff.&lt;/p&gt;
+
+&lt;p&gt;T-Brop is based on hue to manage which register depends on which other in the chain of gadgets.
+This influence is represented as dependency matrices for each gadget.
+To determine the impact of the sequence of gadgets on the registers, it is enough to make a product of matrix.
+By generalizing that, it is possible to identify whether or not it is possible to influence a target register by linking together a set of gadgets, and which registers to target in order to use the ropchain we built.
+T-Brop implementation is based on python3 and is available on &lt;a href=&quot;https://github.com/DGA-MI-SSI/T-Brop&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/T-Brop/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;risques-associés-aux-signaux-parasites-compromettants--le-cas-des-câbles-dvi-et-hdmi&quot;&gt;Risques associés aux signaux parasites compromettants : le cas des câbles DVI et HDMI&lt;/h2&gt;
+&lt;h5 id=&quot;emmanuel-duponchelle-pierre-michel-ricordel&quot;&gt;Emmanuel DUPONCHELLE, Pierre-Michel Ricordel&lt;/h5&gt;
+
+&lt;p&gt;There are radio signals transmitted willingly (radio, WiFi, Bluetooth, etc), and radio signals emitted unbeknownst of the system.
+For example, the cathodic screens of the past that generated radiations that could be received and decoded by means of an antenna.
+Now with the Software Defined Radio (SDR), capturing these signals only requires a small dongle with a tiny antenna.
+Although cathodic screens have disappeared, many components emit on our behalf, especially video cables between computer and screen.
+The speakers present a demo using a small USRP and the &lt;strong&gt;tempestsdr&lt;/strong&gt;, SDR tool to recover this kind of signal.
+The speakers can intercept the signal of their own laptop they were using during the presentation.&lt;/p&gt;
+
+&lt;p&gt;The talk follows with some insights on VGA, HDMI and DVI signals.
+Faster is the potential variation, stronger the radiation. In VGA, it does not go fast, so the fronts are soft, and the radiation is weak.
+With DVI, the frequency is fast, and the changes of fronts are strong, and so the radiation level is high.&lt;/p&gt;
+
+&lt;p&gt;To avoid radiation, the armor must be complete and if there is a hole, it will leak … and so your screen with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/risques_spc_dvi_et_hdmi/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;three-vulns-one-plug&quot;&gt;Three vulns, one plug&lt;/h2&gt;
+&lt;h5 id=&quot;gwenn-feunteun-olivier-dubasque-yves-duchesne-acceis&quot;&gt;Gwenn Feunteun, Olivier Dubasque, Yves Duchesne (Acceis)&lt;/h5&gt;
+
+&lt;p&gt;The 2 speakers introduce the reverse engineering of a WiFi smart plug and the threat they found in the WiFi PSK exchange mechanism between the plug and the smartphone.&lt;/p&gt;
+
+&lt;p&gt;The “smart” plug use WiFi with a “smart” pairing technology avoiding to manually enter on the plug the PSK of the WiFi AP.
+That is not based on WPS but the configuration is achieved using an android application.
+In the application, the user must type the WiFi password, and choose the plug that has been detected by the application.&lt;/p&gt;
+
+&lt;p&gt;The authors begin by sniffing the network and look at the WiFi packets exchanged to send the security information.
+They found broadcast messages that consist of a series of fixed-size messages and then variable-sized packets.
+If fact, the plug manufacturer built a side channel using the size of the encrypted broadcast packets to encode the PSK.
+Then, reading the doc of the WiFi module, we can see that the wireless module is listening on a UDP port and accepts AT commands that can everything in the WiFi module configuration.
+Also, on the PCB, a UART can be leveraged to recover the key of the WiFI network, or to change the module configuration.
+The speakers have developed a &lt;em&gt;patch&lt;/em&gt; to enable WPS sending the right AT command with an Arduino.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/three_vulns_one_plug/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;escape-room-pour-la-sensibilisation-à-la-sécurité-informatique&quot;&gt;Escape room pour la sensibilisation à la sécurité informatique&lt;/h2&gt;
+&lt;h5 id=&quot;eric-alata-erwan-beguin-vincent-nicomette-insa-toulouse&quot;&gt;Eric Alata, Erwan Beguin, Vincent Nicomette (INSA Toulouse)&lt;/h5&gt;
+
+&lt;p&gt;The speaker presented an escape room his team developed in a student project at the INSA Toulouse.
+The escape room aims to teach the good habits of computer security and how to protect themselves from current social engineering attacks.
+Two scenarios are proposed. The first one aims to secure a working environment.
+In the second one, 3 participants must steal documents from a company.&lt;/p&gt;
+
+&lt;h2 id=&quot;du-pcb-à-lexploit-étude-de-cas-dune-serrure-connectée-bluetooth-low-energy&quot;&gt;Du PCB à l’exploit: étude de cas d’une serrure connectée Bluetooth Low Energy&lt;/h2&gt;
+&lt;h5 id=&quot;damien-cauquil-digital-security&quot;&gt;Damien Cauquil (Digital Security)&lt;/h5&gt;
+
+&lt;p&gt;During this talk, Damien Cauquil (&lt;a href=&quot;https://twitter.com/virtualabs&quot;&gt;@virtualabs&lt;/a&gt;) introduce a methodology to conduct the pentest of an IoT device, considering hardware and software attacks.
+Unfortunately, the speaker laptop rapidly went wrong and the presentation was a bit hashed.
+In any case, I highly recommend to read the paper in the conference proceedings.&lt;/p&gt;
+
+&lt;p&gt;Hacking hardware is not always as easy as taking a logical parser, wiring a uart, and so getting a shell.
+In practice, a methodology is needed:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Functional analysis of the device to be tested&lt;/li&gt;
+  &lt;li&gt;Hardware vulnerabilities research&lt;/li&gt;
+  &lt;li&gt;PCB reverse engineering&lt;/li&gt;
+  &lt;li&gt;Firmware, mobile application collecting and disassembly.&lt;/li&gt;
+  &lt;li&gt;Software vulnerabilities research&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Damien then applies his methodology, giving a smart lock use case.
+Studying the lock usage is essential, and a careful observation gives the following insights:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;18 hours of autonomy implies the use of a low energy technology&lt;/li&gt;
+  &lt;li&gt;there are no electrical protections against the over voltage on the USB port&lt;/li&gt;
+  &lt;li&gt;there is no component to detect the position of the rotor of the lock, which means that the software does not know in which position is the lock&lt;/li&gt;
+  &lt;li&gt;on the lock PCB, there is a nRF52 BLE module and an engine driver for the motor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then, the interconnections between the components can be determined by using a multimeter or studying their datasheet.
+Once the JTAG / UART / SWD are identified, the attacker can try to recover the firmware from the MCU, and begin its analysis.
+The firmware can also be recovered at the network level or on the smartphone during the firmware update.&lt;/p&gt;
+
+&lt;p&gt;The firmware, as the Android application, can be disassembled using IDA PRO and JADX respectively.&lt;/p&gt;
+
+&lt;p&gt;After a quick look on the code, Damien discovered that the authentication part of the lock is broken.
+In fact, the &lt;em&gt;pseudo-random&lt;/em&gt; nonce used for encryption is … always set to 1.
+Also, the BLE connection between the smartphone does not require pairing meaning that a man in the middle can easily be performed.&lt;/p&gt;
+
+&lt;p&gt;Finally, the speaker presents this BLE MITM attack using the &lt;a href=&quot;https://github.com/DigitalSecurity/btlejuice&quot;&gt;BtleJuice&lt;/a&gt; tool it developed.
+The attack allows him to capture the authentication token, and to replay it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/du_pcb__lexploit_cas_dune_serrure_connecte_ble/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;wookey-usb-devices-strike-back&quot;&gt;Wookey: USB devices strike back&lt;/h2&gt;
+&lt;h5 id=&quot;arnauld-michelizza-jérémy-lefaure-mathieu-renard-philippe-thierry-philippe-trebuchet-ryad-benadjila&quot;&gt;Arnauld Michelizza, Jérémy Lefaure, Mathieu Renard, Philippe Thierry, Philippe Trebuchet, Ryad Benadjila&lt;/h5&gt;
+
+&lt;p&gt;The authors present a device that is robust against BadUSB attack.
+Their device should not be too expensive and be shareable in open-hardware / open-source.&lt;/p&gt;
+
+&lt;p&gt;As part of the USB standard, it is the device that declares its functionality to the OS.
+Thus if the device is lying on its features, the OS keeps trusting the key: that is the BadUSB attack scenario.
+Along with this attack, the speakers also want to protect themselves against the theft of crypto data, so it needs a SoC solid enough to allow their implementation in a safe way.
+The use of a secure-element to store encryption keys, a keyboard/touchscreen independent of the host for entering the pin code, a μSD slot to host the storage, and two USB ports.&lt;/p&gt;
+
+&lt;p&gt;The firmware of the keys contains a bootloader firmware and a backup firmware in case of a glitch.
+One part is reserved for crypto signature, and a release mechanism triggerable by pressing a physical button.&lt;/p&gt;
+
+&lt;p&gt;Each software module managing each function of the keys must be isolated from the others.
+The speakers implement their own micro-kernel, called Ewok, and manages application modules of crypto, USB, pin code, secure-element.
+The MPU is used to define rights and attributes on memory regions to ensure isolation without an MMU.&lt;/p&gt;
+
+&lt;p&gt;To secure the syscall, which is the only attack surface between the app code and the kernel, the speakers used Ada and SPARK.
+Thus, depending on the criticality of a functionality, the speakers chose the appropriate programming language, from the least restrictive (the C), to the most constrained (SPARK).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/wookey_usb_devices_strike_back/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dump-de-flash-sur-circuit-imprimé&quot;&gt;Dump de flash sur circuit imprimé&lt;/h2&gt;
+&lt;h5 id=&quot;emma-benoit-guillaume-heilles-philippe-teuwen&quot;&gt;Emma Benoit, Guillaume Heilles, Philippe Teuwen&lt;/h5&gt;
+
+&lt;p&gt;The speakers give their feedback on developing their own chip adapter to dump the memory of a flash chip.
+When we want to recover the content of a flash, we often try to connect to the pins of the chip and dump.
+But sometimes we come across a chip whose pins are under the chip, so we must unseat the flash, and then use the right adapter or make our own.
+The speaker decided to make his own.
+The authors designed a PCB using KiCAD and present few methods to build it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a chemical method&lt;/li&gt;
+  &lt;li&gt;using a CNC to cut the tracks directly into the copper, then adding a green insulating paste&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To solder a BGA component by hand, it is necessary to use a microscope, and it looks very painful.&lt;/p&gt;
+
+&lt;p&gt;As soon as the homemade chip adapter is built hardware attack, we can micro solder the “adapted”&lt;/p&gt;
+
+&lt;p&gt;The global investment cost is about 1200 € for both techniques, the per PCB cost is negligible.
+If the BGA component pitch is very tiny (~um), a CNC laser must be used to gain precision.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sstic.org/2018/presentation/attacking_serial_flash_chip_case_study_of_a_black_box_device/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;That’s all for the first part! But you can &lt;a href=&quot;/2018/06/15/sstic-part-2/&quot;&gt;go to the 2nd part of my notes&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Upcomming Events</title>
+   <link href="http://alexisduque.me/2018/05/10/up-event/"/>
+   <updated>2018-05-10T09:44:34+02:00</updated>
+   <id>http://alexisduque.me/2018/05/10/up-event</id>
+   <content type="html">&lt;p&gt;The series of my talk about &lt;strong&gt;IoT Security&lt;/strong&gt; continues in May and June!&lt;/p&gt;
+
+&lt;h2 id=&quot;i-will-give-a-presentation-in-the-following-events&quot;&gt;I will give a presentation in the following events&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rivieradev.fr&quot;&gt;RiveraDev&lt;/a&gt;, May 16-18, Sophia Antipolis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/fr-FR/GDG-Cloud-Lyon/events/248775026/&quot;&gt;Google Cloud &amp;amp; IoT Meetup&lt;/a&gt;, May 31, Epitech Lyon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://voxxeddays.com/luxembourg/&quot;&gt;Voxxedday LU&lt;/a&gt;, June 22, Luxembourg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I hope to see you there!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PACLIDO project</title>
+   <link href="http://alexisduque.me/2018/05/09/paclido/"/>
+   <updated>2018-05-09T09:44:34+02:00</updated>
+   <id>http://alexisduque.me/2018/05/09/paclido</id>
+   <content type="html">&lt;p&gt;Since the beginning of the year, I am involved with Rtone in the FUI23 PACLIDO project.&lt;/p&gt;
+
+&lt;p&gt;PACLIDO is a collaborative project that aims to develop lightweight cryptographic algorithms and protocols for the Internet of Thing.&lt;/p&gt;
+
+&lt;p&gt;The other partners are Airbus Cybersecurity, LORIA-CNRS, Sophia Conseil, CEA, Université de Limoges and Trusted Object.&lt;/p&gt;
+
+&lt;p&gt;Rtone is leading 2 work packages: the use cases and demonstrations definition, and the project dissemination.&lt;/p&gt;
+
+&lt;p&gt;You can found more information about the project and news on its website &lt;a href=&quot;https://paclido.fr&quot;&gt;paclido.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://paclido.fr/img/logo.png&quot; alt=&quot;PACLIDO&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx France and MiXiT 2018</title>
+   <link href="http://alexisduque.me/2018/04/30/devoxx-mixit-2018/"/>
+   <updated>2018-04-30T09:44:34+02:00</updated>
+   <id>http://alexisduque.me/2018/04/30/devoxx-mixit-2018</id>
+   <content type="html">&lt;p&gt;From April 18 to 20,  I attended the &lt;a href=&quot;http://www.devoxx.fr&quot;&gt;Devoxx France&lt;/a&gt; (Wed &amp;amp; Tue, Paris), and the &lt;a href=&quot;http://www.mixitconf.org&quot;&gt;MiXiT&lt;/a&gt; (Fri, Lyon) conferences.&lt;/p&gt;
+
+&lt;p&gt;During these software developer events, I gave a popularization talk about &lt;a href=&quot;https://cfp.devoxx.fr/2018/talk/ZPI-2357/La_securite_dans_l'IoT_:_difficultes,_failles_et_contre-mesures&quot;&gt;IoT Security&lt;/a&gt; and a lightening talk introducing &lt;a href=&quot;https://cfp.devoxx.fr/2018/talk/YEW-3168/Spectre_et_Meltdown,_15_min_pour_tout_comprendre&quot;&gt;Spectre and Meltdown vulnerabilities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can watch the recording of both conference on &lt;a href=&quot;https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A&quot;&gt;DevoxxFR YouTube channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;b51c1fd5d9bf407baf3948dd065f1b1d&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ThdFcdyqMik&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;c1857f1daadf4f6ba138f402e359bf80&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fsV4R5Fvn2g&quot; frameborder=&quot;0&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EWSN 2018 accepted poster</title>
+   <link href="http://alexisduque.me/2018/02/24/ewsn-2018/"/>
+   <updated>2018-02-24T08:36:31+01:00</updated>
+   <id>http://alexisduque.me/2018/02/24/ewsn-2018</id>
+   <content type="html">&lt;p&gt;From February 14th to 16th, I presented our work &lt;em&gt;Insights into RGB-LED to Smartphone Communication&lt;/em&gt; during the posters session at &lt;a href=&quot;https://ewsn2018.networks.imdea.org/&quot;&gt;EWSN&lt;/a&gt; that has been held in Madrid, Spain.&lt;/p&gt;
+
+&lt;p&gt;The poster abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the &lt;a href=&quot;https://hal.inria.fr/hal-01683605&quot;&gt;HAL library&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Snowcamp 2018</title>
+   <link href="http://alexisduque.me/2018/01/26/snowcamp-2018/"/>
+   <updated>2018-01-26T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2018/01/26/snowcamp-2018</id>
+   <content type="html">&lt;p&gt;From January 24 to 26, I attended the Snowcamp 2018 in Grenoble, France.
+During this software developer conference I gave an advanced talk about &lt;a href=&quot;https://snowcamp2018.sched.com/event/D2nR/la-securite-dans-liot-difficultes-failles-et-contre-mesures&quot;&gt;IoT Security&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;558c29d7ef7144d8be8d6b3e3a966deb&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IEEE Global Lificongress accepted paper</title>
+   <link href="http://alexisduque.me/2018/01/01/lificongress-2018/"/>
+   <updated>2018-01-01T08:36:31+01:00</updated>
+   <id>http://alexisduque.me/2018/01/01/lificongress-2018</id>
+   <content type="html">&lt;p&gt;The paper “Decoding Methods in LED-to-Smartphone Bidirectional Communication for the IoT”, co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the &lt;a href=&quot;http://www.lificongress.com/&quot;&gt;IEEE Global Lificongress&lt;/a&gt;, to be held in Paris, France, on February 8-9.&lt;/p&gt;
+
+&lt;p&gt;During the 2 days conference, I will introduce our work by presenting a poster.&lt;/p&gt;
+
+&lt;p&gt;The poster abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the &lt;a href=&quot;https://hal.inria.fr/hal-01683629&quot;&gt;HAL library&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ACM Mobicom'17 week</title>
+   <link href="http://alexisduque.me/2017/10/25/mobicom-medium/"/>
+   <updated>2017-10-25T09:39:31+02:00</updated>
+   <id>http://alexisduque.me/2017/10/25/mobicom-medium</id>
+   <content type="html">&lt;h3 id=&quot;acm-mobicom-2017-conference&quot;&gt;ACM MobiCom 2017 Conference&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*oiKOmwXX30SFUlWZEZR3LQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From October 16th to 20th, I attended the &lt;a href=&quot;https://www.sigmobile.org/mobicom/2017/&quot;&gt;ACM MobiCom
+conference&lt;/a&gt; that has been held in the
+Snowbird Ski resort near Salt Lake City, Utah.&lt;/p&gt;
+
+&lt;p&gt;Sponsored since 1995 by the &lt;a href=&quot;https://beta.sigmobile.org/&quot;&gt;SIGMOBILE&lt;/a&gt; group of
+the Association for Computing and Machinery (ACM), &lt;strong&gt;MobiCom&lt;/strong&gt; is an annual
+international forum that gathers researchers and students, from** academia and
+industry**, to present their latest results in the fields of networks, systems,
+algorithms, and applications that support mobile computers and wireless
+networks.&lt;br /&gt; MobiCom is a highly selective conference (about 18% of acceptance
+this year) offering quality works and presentations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*Jn0joQaVjWkl3i1sjuSpKA.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The 20’ presentations were allocated along the week and peppered with &lt;strong&gt;social events&lt;/strong&gt;, &lt;strong&gt;demos and posters&lt;/strong&gt; sessions, concurrent &lt;strong&gt;workshops&lt;/strong&gt;, the Student
+Research Competition (SRC) and &lt;strong&gt;MobiJob&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*VGZILI-AccTWnSAnigyV7A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, during the &lt;a href=&quot;http://vlcs17.winlab.rutgers.edu/&quot;&gt;&lt;strong&gt;VLCS 2017 workshop&lt;/strong&gt;&lt;/a&gt;
+that preceded the main conference on October 16th, I presented the paper &lt;a href=&quot;https://dl.acm.org/citation.cfm?doid=3129881.3129889&quot;&gt;&lt;strong&gt;SeedLight: Hardening LED-to-Camera Communication with Random Linear Coding&lt;/strong&gt;&lt;/a&gt;
+co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes.&lt;/p&gt;
+
+&lt;p&gt;During the week, some papers particularly attracted my interest:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1145/3117811.3117814&quot;&gt;NICScatter : Backscatter as a Covert Channel in Mobile
+Devices&lt;/a&gt;, Z. Yang (ShanghaiTech
+University)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In her paper, Zhang creates a covert-channel based on the reflection of
+surrounding RF signals on smartphone or laptops. This is achieved controlling
+the impedance of the device’s wireless network interface card (NIC) by switching
+it ON or OFF. Even if the throughput is very low (&amp;lt; 2 bps) the main interest of
+NICScatter is that it doesn’t need any OS modification or root permissions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1145/3117811.3117821&quot;&gt;Pulsar : Towards Ubiquitous Visible Light
+Localization&lt;/a&gt;, C. Zhang and X. Zhang
+(University of Wisconsin-Madison)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After unveiling Litell in 2016, C. Zhang presented Pulsar, an indoor VLC
+localization system. Pulsar œrelies on off-the-shelf luminaries, a USB dongle
+with two photodiodes, and the smartphone sensors to provide accurate (about
+10cm) 3D indoor positioning using the angle-of-arrival (AOA) method.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/.1145/3117811.3117824&quot;&gt;MagneComm : Magnetometer-based Near-Field
+Communication&lt;/a&gt;, Y. Chen (Shanghai Jiao
+Tong University)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On the first day of the main program, Chen introduced a novel near-field
+communication protocol, called &lt;em&gt;MagneCom&lt;/em&gt;, that takes advantage of Magnetic
+Induction (MI) signals emitted from CPUs and captured by magnetometers on mobile
+devices for communication.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dl.acm.org/citation.cfm?doid=3129881.3129890&quot;&gt;Battery-free Visible Light
+Sensing&lt;/a&gt;,A. Varshney, A.
+Soleiman, L. Mottola, and T. Voigt (Uppsala University, Sweden), &lt;strong&gt;VLCS ’17 Workshop best paper award&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ambush Varshney presented a Visible Light Sensing (VLS) system that consumes
+only tens of μWs of power to sense hand gestures and communicate. Their design
+uses solar cells to achieve a sub-μW power consumption for sensing and further
+transmit the gesture detection results by backscattering the ambient RF signals.
+Note that Andreas Soleiman, co-author of this paper won the Student Research
+Competition and showed a working prototype during the VLCS workshop demo
+session.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3119859&quot;&gt;WEBee: Physical-Layer Cross-Technology Communication via
+Emulation&lt;/a&gt;, Li, Z. and He, T.
+(University of Minneapolis) &lt;strong&gt;Best paper award&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The researchers from University of Minneapolis introduced a promising approach
+to physical-layer cross-technology communication (CTC) between WiFi and
+Zigbee.&lt;br /&gt; WEBee opens a promising direction for high-throughput CTC via
+“physical-level emulation”. WEBee uses a high-speed wireless radio (e.g., WiFi
+OFDM) to emulate the desired signals of a low-speed radio (e.g., ZigBee) by
+manipulating only the payload of WiFi packets.&lt;br /&gt; Their paper won the best
+paper award. &lt;br /&gt; The authors also showed WEBee during the Tuesday demo session.&lt;/p&gt;
+
+&lt;h4 id=&quot;tutorial-sessions&quot;&gt;&lt;strong&gt;Tutorial Sessions&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;This year, in addition to the conference and workshops, two tutorials funded by
+the NSF were organised during the weekend.&lt;br /&gt; These tutorials held on the
+University of Utah campus, were mostly hands-on, providing exposure to emerging
+wireless platforms and technologies.&lt;/p&gt;
+
+&lt;p&gt;The first tutorial made use of &lt;a href=&quot;https://www.phantomnet.org&quot;&gt;PhantomNet&lt;/a&gt;, a
+platform to enable experimental research in mobile and cellular technologies
+like &lt;strong&gt;4G&lt;/strong&gt; and &lt;strong&gt;5G&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*BvcHYhKpjhdDR2KwVlAbbQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second introduced the &lt;strong&gt;edge-computing&lt;/strong&gt; platform created by the &lt;em&gt;WiNGS Laboratory&lt;/em&gt; team led by Suman Banerjee (University of Wisconsin-Madison) called
+&lt;a href=&quot;https://paradrop.net&quot;&gt;Paradrop&lt;/a&gt;.&lt;br /&gt; Paradrop provides computational and
+storage capacities to the extreme edge of the network, here the WiFi Acess
+Point, to avoid useless communication to a Cloud platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*bwhktoe_wD0a9MnSMW6OiA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*Z4I9dQI_RSKG-oRky8IKjQ.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After Hawaï, Paris, New-York and Snowbird, the &lt;strong&gt;next edition of Mobicom will be held in New Delhi (India)&lt;/strong&gt;. I hope to be there :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paper presentation at the VLCS'17 workshop</title>
+   <link href="http://alexisduque.me/2017/10/20/mobicom/"/>
+   <updated>2017-10-20T09:39:31+02:00</updated>
+   <id>http://alexisduque.me/2017/10/20/mobicom</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.sigmobile.org/mobicom/2017/images/mobicom-2017-banner.png&quot; alt=&quot;University of Utah&quot; style=&quot;max-height: 300px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From October 16th to 21th, I attended the &lt;a href=&quot;https://www.sigmobile.org/mobicom/2017/&quot;&gt;ACM Mobicom conference&lt;/a&gt; that has been held in the Snowbird Ski resort, Utah.&lt;/p&gt;
+
+&lt;p&gt;On October 16th, I presented the paper &lt;em&gt;SeedLight: Hardening LED-to-Camera Communication with Random Linear Coding&lt;/em&gt; co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes at the &lt;a href=&quot;http://vlcs17.winlab.rutgers.edu/&quot;&gt;VLCS 2017 workshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3117814&quot;&gt;The paper&lt;/a&gt; is now available in the VLCS’17 workshop proceedings.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;d28dc09f3521439ea22df3fe04a68a8d&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe src=&quot;https://drive.google.com/file/d/0B8LW3HFMDWVBU0hmUVg5bm1TSmM/preview&quot; width=&quot;100%&quot; height=&quot;1024px&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tutorials on PhantomNet and Paradrop</title>
+   <link href="http://alexisduque.me/2017/09/14/tutorial/"/>
+   <updated>2017-09-14T09:39:31+02:00</updated>
+   <id>http://alexisduque.me/2017/09/14/tutorial</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://alexisduque.me/public/utah.png&quot; alt=&quot;University of Utah&quot; style=&quot;width: 250px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On October 15th, a day before the start of MobiCom, I will attend two hands-on tutorials hosted at the &lt;strong&gt;University of Utah&lt;/strong&gt; about two emerging wireless technologies: &lt;a href=&quot;https://www.flux.utah.edu/project/phantomnet&quot;&gt;PhantomNet&lt;/a&gt;, a platform with an end-to-end mobile testbed to experiment with new wireless technologies in the wild; and &lt;a href=&quot;http://www.paradrop.org/&quot;&gt;ParaDrop&lt;/a&gt;, a new &lt;strong&gt;edge computing platform&lt;/strong&gt; that allows experimenters to deploy edge services in a WiFi Access Point.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Make your Bluetooth Low Energy IoT device more secure with Visible Light Communication</title>
+   <link href="http://alexisduque.me/2017/09/14/ble-sec/"/>
+   <updated>2017-09-14T09:36:31+02:00</updated>
+   <id>http://alexisduque.me/2017/09/14/ble-sec</id>
+   <content type="html">&lt;p&gt;I wrote a post on &lt;a href=&quot;https://medium.com/@alexisduque/&quot;&gt;Medium&lt;/a&gt; about Bluetooth Low Energy security showing how Visible Light Communication can improve it.&lt;/p&gt;
+
+&lt;p&gt;Follow &lt;a href=&quot;https://medium.com/@alexisduque/make-your-bluetooth-low-energy-iot-device-more-secure-with-visible-light-communication-c2980006d2ac&quot;&gt;this link&lt;/a&gt;
+ to read it on Medium.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-iot-security&quot;&gt;About IoT security&lt;/h3&gt;
+
+&lt;p&gt;Since the Internet of Things is still in the emerging phase, ensuring security
+and privacy is an important issue that must be addressed and resolved &lt;strong&gt;now&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The number of IoT and connected objects grows exponentially, so their &lt;strong&gt;security
+exploits&lt;/strong&gt; will have &lt;strong&gt;more and more repercussions&lt;/strong&gt;, making them very
+&lt;strong&gt;attractive for the hackers&lt;/strong&gt;. Recent news and the growing IoT track at
+security conferences such as &lt;a href=&quot;https://www.blackhat.com/&quot;&gt;Blackhat&lt;/a&gt;, or
+&lt;a href=&quot;https://www.defcon.org/&quot;&gt;Defcon&lt;/a&gt; perfectly illustrates this phenomenon.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-bluetooth&quot;&gt;About Bluetooth&lt;/h3&gt;
+
+&lt;p&gt;In regards to Bluetooth, the SIG greatly enhanced the BLE security releasing at
+the end of 2014 the &lt;strong&gt;Bluetooth Core Specification 4.2.&lt;/strong&gt; This update introduces
+&lt;em&gt;LE Secure Connections&lt;/em&gt; pairing model with the numeric comparison method and
+the &lt;em&gt;Elliptical Curve Hellman-Diffie&lt;/em&gt; (ECDH) algorithm for the key exchange.
+&lt;br /&gt; &lt;em&gt;LE Secure Connections&lt;/em&gt; fixes BLE 4.0–1 exploits unveiled in 2012 by Mike
+Ryan at&lt;a href=&quot;https://toorcon.net/&quot;&gt; TOORCON&lt;/a&gt;
+(&lt;a href=&quot;https://www.youtube.com/watch?v=4POOiVrdnX8&quot;&gt;video&lt;/a&gt;, &lt;a href=&quot;http://lacklustre.net/projects/crackle/&quot;&gt;crackle
+project&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Like &lt;em&gt;LE Legacy&lt;/em&gt; pairing, &lt;em&gt;LE Secure Connection&lt;/em&gt; defines several modes and
+levels of security (see section 5.2.4 Association Models of the Bluetooth Core
+Specification 4.2). Nonetheless, the available modes depend on the “IO
+Capabilities” — keyboard, display, button — that the pairing devices have.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1000/1*sltPpFvfg55pwJ6cRrBwEw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The highest level of security, &lt;em&gt;Numeric Comparison&lt;/em&gt; requires that both BLE
+devices have a keyboard and a display to confirm and compare a number displayed
+on both the peripheral and smartphone. An alternative and more convenient
+approach is using NFC.&lt;br /&gt; By placing a smartphone close to the BLE (and NFC)
+peripheral, NFC will automatically initiate the BLE pairing and keys exchange
+mechanisms to establish an authenticated and encrypted communication channel.&lt;/p&gt;
+
+&lt;p&gt;However, the highly &lt;strong&gt;limited bill of material (BOM) cost&lt;/strong&gt; or the &lt;strong&gt;PCB size&lt;/strong&gt; prevents placing a screen, an interactive input, or an NFC antenna on such
+devices.&lt;br /&gt; As a consequence, they provide a weak level of security whereas the
+attacks targeting such smart objects are rising.&lt;/p&gt;
+
+&lt;p&gt;To overcome this issue, we propose a technological &lt;strong&gt;solution based on Visible Light Communication (VLC)&lt;/strong&gt; solution to assist the pairing and the secure
+connection setup between a BLE 4.2 peripheral and a smartphone.&lt;br /&gt; This
+solution targets low-cost and size-constrained IoT devices that need to setup
+the &lt;em&gt;Secure Connection&lt;/em&gt; with &lt;em&gt;Numeric Comparison&lt;/em&gt; to provide &lt;strong&gt;a high level of security even on BLE devices that have neither input and display nor NFC&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;few-words-about-kiwink-and-vlc&quot;&gt;Few words about Kiwink and VLC&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*8pvCtdZwxeVch5MOBtPt9A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rtone.fr/&quot;&gt;Rtone&lt;/a&gt; has recently developed
+&lt;a href=&quot;http://kwink.io/&quot;&gt;Kiwink&lt;/a&gt;®, a short range &lt;strong&gt;bidirectional Visible Light Communication&lt;/strong&gt; system between an &lt;strong&gt;unmodified smartphone&lt;/strong&gt; and a basic and &lt;strong&gt;cheap LED&lt;/strong&gt;.&lt;br /&gt; &lt;strong&gt;Kiwink®&lt;/strong&gt; uses the &lt;strong&gt;camera&lt;/strong&gt; and the &lt;strong&gt;flashlight&lt;/strong&gt; of an
+Android or iOS smartphone and does &lt;strong&gt;not need hardware modification in the IoT peripheral&lt;/strong&gt; since it works with any micro-controller.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;In fact, bringing Visible Light Communication to your nRF52 BLE
+device just need a firmware update!&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The communication range of such technology is tens of centimeters while the
+throughput is &lt;strong&gt;about 1kbps from the peripheral LED to the smartphone&lt;/strong&gt; and &lt;strong&gt;50bps from the smartphone to the peripheral LED&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kiwink®&lt;/strong&gt; is a trademark and its technology patented.&lt;/p&gt;
+
+&lt;h3 id=&quot;improving-ble-security-with-kiwink-and-vlc&quot;&gt;Improving BLE security with Kiwink and VLC&lt;/h3&gt;
+
+&lt;p&gt;To solve the problem described above, we propose to take advantage of this
+VLC-based technology and ubiquitous LEDs, to provide &lt;strong&gt;a safe side channel&lt;/strong&gt; to
+acknowledge or display a confirmation code and establish a BLE Secure
+Connection. We can also envisage to transmit a larger key if another Secure
+Connection mechanism is used.&lt;/p&gt;
+
+&lt;p&gt;This out of band key exchange is thus &lt;strong&gt;safer than NFC against passive
+eavesdropper&lt;/strong&gt; since the light signal is highly directive and easy to obfuscate.&lt;/p&gt;
+
+&lt;h4 id=&quot;in-practice-the-connection-establishment-should-work-as-follow&quot;&gt;In practice, the connection establishment should work as follow:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The smartphone starts sending a BLE Secure Connection request to the peripheral&lt;/li&gt;
+  &lt;li&gt;The smartphone and the peripheral proceeds to the Secure Connection
+Establishment with Numeric Comparison according to the BLE 4.2 standard&lt;/li&gt;
+  &lt;li&gt;While the smartphone confirmation number appears on the smartphone screen, the
+peripheral LED starts lightning and transmits its number.&lt;/li&gt;
+  &lt;li&gt;By placing its smartphone above its screen, the application decodes the signal
+and displays the peripheral number on the smartphone screen.&lt;/li&gt;
+  &lt;li&gt;The user confirms that both codes are equal.&lt;/li&gt;
+  &lt;li&gt;The smartphone sends the acknowledgment to the peripheral using the flashlight.&lt;/li&gt;
+  &lt;li&gt;The peripheral decodes the acknowledgment signal and the secure connection
+establishment can proceed according to the BLE 4.2 standard.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*OU9UmTaxbAnUWrJpK9AVcQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;We have shown that Kiwink and VLC offer the possibility to setup a &lt;em&gt;SecureConnection&lt;/em&gt; with &lt;em&gt;Numeric Comparison&lt;/em&gt; or &lt;em&gt;Out-Off-Band authentication&lt;/em&gt; on
+low-cost and size-constrained IoT devices that &lt;strong&gt;have neither input and display nor NFC.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Our solution brings a high level of security on BLE devices that would have
+been completely unsafe otherwise. The costs of this major improvement are negligible since Kiwink only relies on a cheap LED and a piece of software&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Besides, many application fields and use cases of VLC exists like access
+control, device-to-device communication, or accurate indoor localization using
+ceiling LEDs (&lt;a href=&quot;http://kiwink.io/&quot;&gt;Kiwink website&lt;/a&gt; gives further information
+about VLC).&lt;/p&gt;
+
+&lt;p&gt;Finally, feel free to give your feedback about that. We are are waiting for your
+comments and suggestions!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You can also read this post and engage the conversation on the &lt;a href=&quot;https://devzone.nordicsemi.com/blogs/1170/make-your-bluetooth-low-energy-iot-device-more-sec/&quot;&gt;NordicDeveloperZone&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>VLCS 2017 accepted paper</title>
+   <link href="http://alexisduque.me/2017/07/31/vlcs-2017/"/>
+   <updated>2017-07-31T09:36:31+02:00</updated>
+   <id>http://alexisduque.me/2017/07/31/vlcs-2017</id>
+   <content type="html">&lt;p&gt;The paper “SeedLight: Hardening LED-to-Camera Communication with Random Linear Coding”, co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the &lt;a href=&quot;http://vlcs17.winlab.rutgers.edu/&quot;&gt;VLCS 2017 workshop&lt;/a&gt;, to be held in Snowbird, Utah, USA, on October 16, co-located with the prestigious &lt;a href=&quot;http://www.sigmobile.org/mobicom/2017/&quot;&gt;ACM MobiCom 2017&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IACR Cryptology Spring School on Security & Correctness in the IoT</title>
+   <link href="http://alexisduque.me/2017/05/15/spring-shool/"/>
+   <updated>2017-05-15T18:44:34+02:00</updated>
+   <id>http://alexisduque.me/2017/05/15/spring-shool</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://alexisduque.me/public/logo.jpg&quot; alt=&quot;TU Graz&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From Mai 8 to 12, I attended the &lt;a href=&quot;https://springschool.iaik.tugraz.at/&quot;&gt;1st IACR Cryptology School on Security &amp;amp; Correctness in the Internet of Things&lt;/a&gt; organized by &lt;a href=&quot;https://www.iaik.tugraz.at/content/about_iaik/&quot;&gt;IAIK&lt;/a&gt;, in Graz, Austria.&lt;/p&gt;
+
+&lt;p&gt;Top level speakers in the field of security gave presentations about software/hardware attacks and countermeasures: binary exploitation, code reuses/injection, hardware side channels, cache covert channels, formal analysis, lightweight cryptography (LWC), etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://alexisduque.me/public/stmartin.jpg&quot; alt=&quot;St Martin&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MiXiT 2017</title>
+   <link href="http://alexisduque.me/2017/04/25/mixit/"/>
+   <updated>2017-04-25T18:44:34+02:00</updated>
+   <id>http://alexisduque.me/2017/04/25/mixit</id>
+   <content type="html">&lt;p&gt;From April 20 to 21, I attended the &lt;a href=&quot;https://mixitconf.org/en/&quot;&gt;MiXiT 2017&lt;/a&gt; conference in Lyon, France.&lt;/p&gt;
+
+&lt;p&gt;During this IT conference I gave an &lt;em&gt;Random&lt;/em&gt; talk about [Open Source Software and Communities].&lt;/p&gt;
+
+&lt;p&gt;(https://speakerdeck.com/alexisduque/le-logiciel-libre-et-leurs-communautes-peuvent-ils-contribuer-a-un-monde-meilleur)&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;263871e25bd24b7cbbe9ee0547aba4ff&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Visible Light Communication at MWC 2017</title>
+   <link href="http://alexisduque.me/2017/03/11/vlc-mwc-2017/"/>
+   <updated>2017-03-11T17:44:34+01:00</updated>
+   <id>http://alexisduque.me/2017/03/11/vlc-mwc-2017</id>
+   <content type="html">&lt;p&gt;From February 26 to March 3th, I have been lucky to attend the &lt;a href=&quot;http://www.mobileworldcongress.com/&quot;&gt;Mobile World Congress &lt;/a&gt;that takes place each year in Barcelona. Organized by the GSMA, this is the world’s largest event for the mobile industry, where the leading companies (Huawei, Qualcomm, Orange, Vodafone, …) unveil their latest innovations and products.&lt;/p&gt;
+
+&lt;p&gt;MWC 2017 just ended and despite Mark Zuckerberg did not show up in Barcelona last week, the attendance still increased to 109,000 from 101,000 in the previous edition.&lt;/p&gt;
+
+&lt;p&gt;One more time, smartphone manufacturers take advantage of this event and the huge audience to officially launch their &lt;em&gt;smartphone of the year&lt;/em&gt;. Besides, discussions and announces less mediated still occurs.&lt;/p&gt;
+
+&lt;p&gt;This year, examples of &lt;em&gt;hot&lt;/em&gt; and actively &lt;em&gt;dealt with&lt;/em&gt; topics were &lt;strong&gt;mobile-IoT&lt;/strong&gt;, &lt;strong&gt;5G&lt;/strong&gt;, &lt;strong&gt;Virtual/Augmented Reality&lt;/strong&gt; or &lt;strong&gt;Artificial Intelligence (AI)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Visible Light Communication&lt;/strong&gt; (VLC), also known as &lt;strong&gt;LiFi&lt;/strong&gt;, was no exception, and PureLifi, Philips Lighting, i2CAT, Oledcomm, show their advances in the field.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Lets, recap what was being shown in the Catalan capital last week.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;purelifi&quot;&gt;PureLifi&lt;/h3&gt;
+
+&lt;p&gt;Since 2011, the Scottish spin-off of the &lt;a href=&quot;http://www.lifi.eng.ed.ac.uk/&quot;&gt;University of Edinburgh&lt;/a&gt;, co-founded by &lt;a href=&quot;http://scholar.google.co.uk/citations?user=XxIwRJQAAAAJ&amp;amp;hl=en&quot;&gt;Pr. Harald Haas&lt;/a&gt;, develops a LiFi high-speed, bi-directional, networked and mobile wireless communication system using the light spectrum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAwXAAAAJDA3NDE2OWIxLWRmYTktNGVmMy04MmQ4LTA3M2YxY2M5ZjM2NQ.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 250px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last year, they disclosed the &lt;a href=&quot;http://purelifi.com/lifi-products/lifi-x/&quot;&gt;Lifi-X &lt;/a&gt;USB dongle and demonstrates a &lt;strong&gt;wireless communication between a tablet and a LiFi enabled access point&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This year, the company introduces a new Access Point (AP), that consists of an integrated luminaire. It supports &lt;strong&gt;mobility and handover&lt;/strong&gt;, &lt;strong&gt;multiple access&lt;/strong&gt; between 8 to 16 users at once, and delivers data at rates of &lt;strong&gt;45 megabits per second&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;i2cat-fundation&quot;&gt;i2CAT Fundation&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://i2cat.net/&quot;&gt;i2CAT foundation&lt;/a&gt; is a non-profit research and innovation center based in Barcelona which promotes mission-oriented R+D+i activities. For more than five years, the &lt;em&gt;Ubiquitous Internet Technology unit&lt;/em&gt;, led by&lt;a href=&quot;http://scholar.google.co.uk/citations?user=LFEBdZYAAAAJ&quot;&gt; Pr. Josep Paradells&lt;/a&gt; (also i2CAT President) and &lt;a href=&quot;http://www.linkedin.com/in/danielcamps/&quot;&gt;Daniel Camps&lt;/a&gt;, works on &lt;strong&gt;VLC&lt;/strong&gt; and &lt;strong&gt;Optical Camera Communication&lt;/strong&gt; (OCC). During the past Congress editions, they present their results with real-life use cases and great demo.&lt;/p&gt;
+
+&lt;p&gt;While in 2014 they demonstrate an &lt;strong&gt;Indoor Positioning System&lt;/strong&gt; (IPS) using the smartphone light sensor, with an accuracy at &lt;em&gt;the light-bulb level&lt;/em&gt;, in 2015 they used a LED luminary controlled by a Raspberry Pi to &lt;strong&gt;broadcast information&lt;/strong&gt; to commercial smartphones using the back camera.&lt;/p&gt;
+
+&lt;p&gt;Last year and once again, their demo showed an IPS, but radically different and improved. By taking advantage of the mobile phone front camera, it provides &lt;strong&gt;3D localization&lt;/strong&gt; with a &lt;strong&gt;decimeter accuracy&lt;/strong&gt; and &lt;strong&gt;orientation&lt;/strong&gt; capabilities. The i2CAT booth was set up with store decors demonstrating a retail use case and &lt;a href=&quot;http://www.youtube.com/watch?v=alVp8sVuviw&quot;&gt;assisted shopping for visually impaired persons.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAyWAAAAJGQwMjkxM2Y0LTE5ODAtNDgyNi04ZGM5LWM0Mzk1NDEzNzdiZQ.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 350px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, the team exploits their IDS system to bring out a new use case. They developed a &lt;strong&gt;3D&lt;/strong&gt; smartphone &lt;strong&gt;game&lt;/strong&gt; with &lt;strong&gt;virtual reality (VR)&lt;/strong&gt; to be used with the &lt;strong&gt;Samsung Gear headset&lt;/strong&gt;. By wearing the glasses, the user had to quickly move in the space, to catch as much as possible balls thrown by two canons.&lt;/p&gt;
+
+&lt;h3 id=&quot;oledcomm&quot;&gt;Oledcomm&lt;/h3&gt;
+
+&lt;p&gt;The&lt;a href=&quot;http://www.oledcomm.com/fr/&quot;&gt; French startup&lt;/a&gt; founded by &lt;a href=&quot;http://fr.linkedin.com/in/suat-topsu-06979737&quot;&gt;Pr. Suat TOPSU&lt;/a&gt; in 2012 offers solutions for indoor positioning system (GEOLiFi) and data communication (LiFiNET) through light, primarily for retail, and healthcare.&lt;/p&gt;
+
+&lt;p&gt;Even if in the past their system relies on a small &lt;strong&gt;jack dongle to be plugged in a smartphone&lt;/strong&gt;, their new app now uses the &lt;strong&gt;mobile phone camera&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAApRAAAAJDlkMzg5MjgzLWRlMDAtNGYxNy1iNWM2LWM4NjdlZGMwZmYzOQ.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 350px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At their booth in the French Tech area, they built a tiny Lego smart city and placed two desk lamp on each side. Their rocky demo was however quite nice: by putting the smartphone just below both lights, the application plays different videos, providing contextual information.&lt;/p&gt;
+
+&lt;h3 id=&quot;philips-lightning&quot;&gt;Philips Lightning&lt;/h3&gt;
+
+&lt;p&gt;The well-known market leader in LED lighting solutions, also came to Barcelona with their indoor positioning system. The system utilizes &lt;strong&gt;a combination of VLC technology, Bluetooth, and a smartphone’s inertial sensors&lt;/strong&gt; to deliver indoor positioning that they claim accurate within &lt;strong&gt;30cm&lt;/strong&gt;, plus &lt;strong&gt;orientation&lt;/strong&gt;, with &lt;strong&gt;in-pocket notifications&lt;/strong&gt;, and analytics thanks to &lt;strong&gt;a cloud platform&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Besides, during a &lt;em&gt;Partners event&lt;/em&gt; conference, the company unveil &lt;strong&gt;a collaboration program&lt;/strong&gt; called &lt;em&gt;Localization Lab&lt;/em&gt;. It includes industry leaders (such as Microsoft, SAP or Capgemini) and start-up (SES-imagotag, Favendo, Adactive, Vipera, Nakko Mapiq and Blue Jay, active in robotics) and aims to find complementary products and services alongside localization. Partners will access to Philips’ indoor positioning software development kit and an evaluation kit comprised of indoor positioning LED lights.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAuPAAAAJGIzNTEyYWEwLTM5ZDMtNGMzNC05MDAxLWI5NWM1MTc4NjQ4ZQ.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 350px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;To conclude, &lt;strong&gt;MWC 2017&lt;/strong&gt; saw that Visible Light Communication is &lt;strong&gt;on the edge of marketing&lt;/strong&gt; and definitely a promising technology. One more time, IPS seems to be a killer app, since the indoor localization issue still &lt;strong&gt;not totally solved by radio-based methods&lt;/strong&gt;, and recent reports (such as &lt;a href=&quot;http://www.marketsandmarkets.com/PressReleases/indoor-location.asp&quot;&gt;MarketAndMarkets&lt;/a&gt; one) estimating the IPS market at 23.13 Billion USD in 2021 may attract interests.&lt;/p&gt;
+
+&lt;p&gt;However, a &lt;strong&gt;VLC transceiver integrated into smartphones still missing&lt;/strong&gt; and this is probably a blocker to mass adoption.&lt;/p&gt;
+
+&lt;p&gt;MWC 2017 finally unveiled only a few pieces of the VLC capability. Other use cases for VLC in the IoT context may exist and have to be further explored. I think of &lt;a href=&quot;http://dartnets.cs.dartmouth.edu/starlight&quot;&gt;sensing&lt;/a&gt;, integration with WiFi or &lt;a href=&quot;http://rtone.fr/portfolio-item/visible-light-communication-vlc/&quot;&gt;low-cost device to device communication&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;N.B. This article has been originally posted on Linkedin &lt;a href=&quot;https://www.linkedin.com/pulse/visible-light-communication-mobile-world-congress-2017-alexis-duque&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA3dAAAAJDk4YTY5M2U3LTA1NmQtNGFjZC05ZjBiLTBiNTNmMTMwM2ZkNQ.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mobile World Congress 2017</title>
+   <link href="http://alexisduque.me/2017/03/03/mwc-2017/"/>
+   <updated>2017-03-03T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2017/03/03/mwc-2017</id>
+   <content type="html">&lt;p&gt;From February 26 to March 3th, I have been lucky to attend the &lt;a href=&quot;https://www.mobileworldcongress.com&quot;&gt;Mobile World Congress&lt;/a&gt; that takes place each year in Barcelona. This is the world’s largest event for the mobile industry, organised by the GSMA, where the leading companies (Huawei, Qualcomm, Orange, Vodafone, …) unveil their latest innovations and strategies.&lt;/p&gt;
+
+&lt;p&gt;During this edition, examples of &lt;em&gt;hot&lt;/em&gt; and actively discussed topics were mobile-IoT, 5G, Virtual/Augmented Reality or Artificial Intelligence. Visible Light Communications was no exception: PureLifi demonstrated its new Lifi-X dongle while Philips Lightning introduced a VLC based indoor localization system for the retail industry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/mwc2017.jpg&quot; alt=&quot;MWC 2017&quot; style=&quot;width: 250px;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EWSN 2017</title>
+   <link href="http://alexisduque.me/2017/03/01/ewsn-demo/"/>
+   <updated>2017-03-01T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2017/03/01/ewsn-demo</id>
+   <content type="html">&lt;p&gt;On February 21th, I presented our &lt;em&gt;Off-the-shelf Bi-directional Visible Light Communication Module for IoT Devices and Smartphones&lt;/em&gt; during the posters and demos session at &lt;a href=&quot;http://www.ewsn2017.org/&quot;&gt;EWSN&lt;/a&gt; that has been held in Uppsala, Sweden.&lt;/p&gt;
+
+&lt;p&gt;The demo abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the &lt;a href=&quot;https://hal.inria.fr/hal-01473706&quot;&gt;HAL library&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;f5b37c5e153c4bdfadad4f1c17a0ea6d&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Snowcamp 2017</title>
+   <link href="http://alexisduque.me/2017/02/18/snowcamp-2017/"/>
+   <updated>2017-02-18T08:44:34+01:00</updated>
+   <id>http://alexisduque.me/2017/02/18/snowcamp-2017</id>
+   <content type="html">&lt;p&gt;From February 15 to 18, I attended the Snowcamp 2017 in Grenoble, France.
+During this software developer conference I gave an advanced talk about &lt;a href=&quot;https://speakerdeck.com/alexisduque/bluetooth-low-energy-vous-saurez-tout&quot;&gt;Bluetooth Low Energy&lt;/a&gt;
+ and a brief popularization talk about &lt;a href=&quot;https://speakerdeck.com/alexisduque/visible-light-communications-pour-liot&quot;&gt;Visible Light Communication&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;393a8a209ef4402582aaf6b881bee98e&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;1c7cd06aef354d90b112739b2f6b00d6&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mobicom and VLCS 2016</title>
+   <link href="http://alexisduque.me/2016/10/09/vlcs/"/>
+   <updated>2016-10-09T09:44:34+02:00</updated>
+   <id>http://alexisduque.me/2016/10/09/vlcs</id>
+   <content type="html">&lt;p&gt;From October 3th to 7th, I attended the prestigious &lt;a href=&quot;https://www.sigmobile.org/mobicom/2016/&quot;&gt;ACM Mobicom&lt;/a&gt; that has been held in New York.&lt;/p&gt;
+
+&lt;p&gt;On October 3th, I presented the paper “Unleashing the Power of LED-to-Camera Communications for IoT Devices”, co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes at the &lt;a href=&quot;http://dartnets.cs.dartmouth.edu/VLCS2016/&quot;&gt;VLCS 2016 workshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dl.acm.org/citation.cfm?id=2981555&quot;&gt;The paper&lt;/a&gt; is now available in the VLCS’16 workshop proceedings.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;9fef8432702b4fef8b5d989a7a9aa4cb&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe src=&quot;https://drive.google.com/file/d/0B8LW3HFMDWVBOWktanBmdDVaTWM/preview&quot; width=&quot;100%&quot; height=&quot;1024px&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>VLCS 2016 accepted paper and demo</title>
+   <link href="http://alexisduque.me/2016/07/31/vlcs-2016/"/>
+   <updated>2016-07-31T09:36:31+02:00</updated>
+   <id>http://alexisduque.me/2016/07/31/vlcs-2016</id>
+   <content type="html">&lt;p&gt;The paper “Unleashing the Power of LED-to-Camera Communications for IoT Devices”, co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the &lt;a href=&quot;http://dartnets.cs.dartmouth.edu/VLCS2016/&quot;&gt;VLCS 2016 workshop&lt;/a&gt;, to be held at New York, USA, on October 3, in association with the prestigious &lt;a href=&quot;http://www.sigmobile.org/mobicom/2016/&quot;&gt;ACM MobiCom 2016&lt;/a&gt;. &lt;br /&gt;
+Furthermore, the LED-to-smartphone camera communication system proposed and studied in this paper will be presented during the VLCS demo session.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Devoxx France 2016</title>
+   <link href="http://alexisduque.me/2016/04/28/devoxx-france-2016/"/>
+   <updated>2016-04-28T09:44:34+02:00</updated>
+   <id>http://alexisduque.me/2016/04/28/devoxx-france-2016</id>
+   <content type="html">&lt;p&gt;From April 20 to April 22, I attended the Devoxx France 2016.
+During this software developer conference I gave a practical presentation about  &lt;a href=&quot;https://speakerdeck.com/alexisduque/communiquer-en-ble-les-pieges-a-eviter&quot;&gt;Bluetooth Low Energy on Android devices&lt;/a&gt;
+ and a short talk about &lt;a href=&quot;https://speakerdeck.com/alexisduque/des-leds-pour-remplacer-votre-routeur-wifi&quot;&gt;Visible Light Communication&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;c89fbc18ff494b7386c7dc1f618022c1&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;d4299f12430740bdb548faf76b2fafd9&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SIDO 2016</title>
+   <link href="http://alexisduque.me/2016/04/28/sido-2016/"/>
+   <updated>2016-04-28T09:36:31+02:00</updated>
+   <id>http://alexisduque.me/2016/04/28/sido-2016</id>
+   <content type="html">&lt;p&gt;On April 7, I’ve participated in the Visible Light Communication workshop organized in
+the context of the SiDO (&lt;em&gt;Salon de l’Internet des Objet&lt;/em&gt;), in Lyon.
+With Adrien Desportes, Stefan Mangold, and Pascal Faradet, we introduced VLC and its usage in the context
+of the Internet of Things, giving some concrete use cases.
+My &lt;a href=&quot;https://speakerdeck.com/alexisduque/using-visible-light-to-make-your-objects-smarter-from-the-laboratory-to-your-home&quot;&gt;presentation slides&lt;/a&gt; are
+in the &lt;a href=&quot;/talks&quot;&gt;Talks section&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;8e4e7c23cc0e4433baa9a9cc3c0235fa&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>

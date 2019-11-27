@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+         SSTIC Part 2 &middot; Alexis Duque 
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/lanyon.css">
+    <link rel="stylesheet" href="/public/css/custom.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+    <!-- Icons -->
+    <!--   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png"> -->
+    <link rel="shortcut icon" href="/public/favicon.png">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+    <!-- <script src="https://txtpen.com/embed.js?site=<alexisduque>"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+</head>
+
+  
+  <body class="sidebar-overlay">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+
+<!-- Toggleable sidebar -->
+<div class="sidebar">
+
+    <div class="sidebar-logo">
+        <img src="https://www.gravatar.com/avatar/83124b745752d1a1b0ca2eee1af0bd48?s=240" />
+    </div>
+
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="https://github.com/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-github-alt fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://twitter.com/alexis0duque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://linkedin.com/in/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+          
+        <a href="https://scholar.google.fr/citations?user=P9BIZW0AAAAJ">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-google fa-stack-1x"></i>
+      </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="mailto:alexis.duque@insa-lyon.fr">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+        </a>
+        
+        <a href="/atom.xml">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x"></i>
+      </span>
+        </a>
+    </div>
+
+    <div class="sidebar-item">
+        <p>R&D and Security Leader @Rtone<br>Ph.D. #iot #vlc #security 💡🔑🚴‍</p>
+    </div>
+
+    <nav class="sidebar-nav">
+        <a class="sidebar-nav-item" href="/">Home</a>              
+        <a class="sidebar-nav-item" href="/conferences/">Conferences</a>       
+        <a class="sidebar-nav-item" href="/cv/">CV</a>         
+        <a class="sidebar-nav-item" href="/news/">News</a>           
+        <a class="sidebar-nav-item" href="/publications/">Publications</a>       
+        <a class="sidebar-nav-item" href="/research/">Research Interests</a>         
+        <a class="sidebar-nav-item" href="/talks/">Talks</a>                             
+
+        <!-- <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io/archive/v1.0.0.zip">Download</a>
+    <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span> -->
+    </nav>
+
+    <div class="sidebar-item sidebar-footer">
+        <p>
+            &copy; 2019. All rights reserved.<br>
+            <small><i>Last updated on October 22th, 2018.</i></small>
+        </p>
+    </div>
+</div>
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Alexis Duque</a>
+            <small>R&D and Security Leader at Rtone.</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">SSTIC Part 2</h1>
+  <span class="post-date">15 Jun 2018</span>
+  <p>This post is the second part of my notes I took during the SSTIC this year. The first part is available here: <a href="/2018/06/13/sstic-part-1/">SSTIC 2018 Part 1</a></p>
+
+<h2 id="rump--nordic-made-easy">RUMP : Nordic made easy</h2>
+<h4 id="salma-el-mohib"><em>Salma El Mohib</em></h4>
+
+<p>Speaker from Digital Security presents 3 python scripts for nRF firmware analysis.
+Problem: How to reverse a nRF firmware with IDA? How to map it in IDA?</p>
+
+<p>In fact, the nRF soft device use SVCALLS.</p>
+<ul>
+  <li><code>nrfparse.py</code>: build the knowledge database from all the Nordic SDK and softdevice</li>
+  <li><code>nrfident.py</code>: nRF device identification + SDK and Soft Device version to get the memory mapping</li>
+  <li><code>nrfreverse.py</code>: used after IDA configuration and firmware disassembly. It parses the assembly code to find SVC opcodes. It selects the appropriate functions prototypes and outputs them in the python output window of IDA pro.</li>
+</ul>
+
+<p>The tool is available on Github: <a href="https://github.com/DigitalSecurity/nrf5x-tools">nrf5x-tools</a></p>
+
+<h2 id="rump-arm_now">RUMP: ARM_Now</h2>
+<h4 id="sanson-chaignon"><em>Sanson Chaignon</em></h4>
+
+<p>ARM_Now is a qemu powered tool that allows instant setup of virtual machines on arm CPU, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.</p>
+
+<p>ARM_Now is available on Github: <a href="https://github.com/nongiach/arm_now">arm_now</a></p>
+
+<h2 id="audit-de-sécurité-dun-environnement-docker">Audit de sécurité d’un environnement Docker</h2>
+<h4 id="julien-raeis-matthieu-buffet-anssi"><em>Julien Raeis, Matthieu Buffet (ANSSI)</em></h4>
+
+<p>Docker is a lightweight virtualization tool for packaging applications and automating the dev/deployment cycle.
+Each application block is a container.
+Each container has all the files it depends on.
+Docker works under windows &amp; Linux.
+For a developer, docker images are black boxes in which the application runs. They often do not master the security of their software execution environment.
+On the security side, this presentation will focus on the part that makes the Docker images turn and how to harden the host environment.</p>
+
+<p>Windows Docker containers are based on <code>JOBS</code> kernel objects that provide a <code>CGROUP</code> equivalent on Linux.
+We can look at the container tree using <code>winobj</code>.
+Each container is in a silo, and in these silos, we discover the isolation mechanism for the symbolic links to be executed in a separate context.
+On the filesystem side, the NTFS driver has been patched to handle the isolation.
+If it is available, Docker uses Hyper-V to isolate the container and benefits from the Hyper-V isolation mechanism.</p>
+
+<p>For the audit of a Docker environment, we can control the network interfaces, the permissions on the docker group, mutual authentication by certificates, etc …
+If we do not do it, we expose ourselves to an escalation of privileges via Docker.
+To avoid denials of service, we often limit the consumption of resources via <code>ulimit</code>.</p>
+
+<p>Namespaces should be reviewed, especially those that allow to make IPC, to do <code>ptrace</code>, etc.</p>
+
+<p>To facilitate the auditing of namespaces, speakers have developed a tool to generate a graph according to which namespace can access which process.</p>
+
+<p>Process capabilities can be reduced using the tool <code>pscap</code>.
+Then we can use the docker commands to reduce these capabilities.
+When the container has access to real-world resources on the Host, it must be ensured that these resources do not allow elevation of privilege to the Host.</p>
+
+<p><em>Windows Server Containers</em> are not secure and do not isolate the executed code of the Host. We must therefore favor <em>Hyper-V Containers</em>, rather than <em>Windows Server Container</em>.</p>
+
+<p>Under Linux, a <code>seccomp</code> filter is compiled, so if we must decompile it if we want to audit it.</p>
+
+<p>Speakers worked on a formal Prolog verifier that takes a <code>seccomp</code> filter as input and evaluates whether or not specific actions can be performed with this filter.</p>
+
+<p>To improve the containers isolation, it is possible to use <em>Orchestrators</em> based on virtualization, <em>KAtacontainers</em> that offer an equivalent of <em>Hyper-V Containers</em> under windows, <em>gVisor</em> which is a userland kernel made by Google.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/audit_de_securite_docker/">Link to the presentaiton</a></p>
+
+<h2 id="hardening-a-java-card-virtual-machine-implementation-with-the-mpu">Hardening a Java Card Virtual Machine Implementation with the MPU</h2>
+<h4 id="guillaume-bouffard-léo-gaspard"><em>Guillaume Bouffard, Léo Gaspard</em></h4>
+
+<p>The speaker will introduce how to make a JavaCard JVM hardened using the features of a CPU.
+To obtain a trusted root, you need a secure and robust component in which you can store a cryptographic secret that will cryptographically sign and verify the integrity of some parts (or all) of the trusted system.</p>
+
+<p>JavaCard technology is based on the JVM that runs on a smart card. There is no open-source implementation, but the majority of JavaCard platforms are evaluated.</p>
+
+<p>The JVM is often independent of the secure component on which it operates, and the confinement is done at the application level, which at a cost in performance. As a result, the speakers decided to work on this JVM to use the hardware mechanisms of the smart card.
+The Memory Protection Unit is configured in privileged mode and allows setting the read/write/execution restrictions. But these configurations are limited to 8 memory regions, roughly 8 pages of MMU on a conventional CPU. One region can be included in another to refine the insulation.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/hardening_a_java_card_virtual_machine_implementation_with_the_mpu/">Link</a></p>
+
+<h2 id="dans-les-coulisses-de-léquipe-sécurité-debian">Dans les coulisses de l’équipe sécurité Debian</h2>
+<h4 id="yves-alexis-perez"><em>Yves-Alexis Perez</em></h4>
+
+<p>The speaker is a volunteer with the Debian security team.
+He will introduce his role in the team and how Debian manages the vulnerabilities.</p>
+
+<p>Only 10 peoples, 5 active, all are volunteers.
+Some other guys help: package maintainers, researchers, project maintainers.</p>
+
+<p>The team job is to manage the distribution security on stable version (Stretch and Jessy).
+They prepare packages security updates and write security-announce.
+They coordinate with the other teams: developers, etc.</p>
+
+<p>The Debian security team also contributes to hardening the Debian ecosystem.
+However, they do not work on the platform security (Debian account and keys management, CI, Debian LTS, etc)</p>
+
+<p>They admin the security tracker website that reports the current distribution security state and publish CVE list.</p>
+
+<p>The security-tracker is a public git repo. They have private repositories, for instance for threats under embargo.</p>
+
+<p>They also monitor external mailing lists, and their mail address about vulnerability reports.
+To help them in this task, they have the External-check tool that is a script that grabs the CVE and adds them to a list. The list is curated by the team;</p>
+
+<ol>
+  <li>the vulnerability is identified</li>
+  <li>the CVE is assigned</li>
+  <li>a fix is identified</li>
+  <li>the patch is applied</li>
+  <li>the package is built locally</li>
+  <li>the package is uploaded to security-master</li>
+  <li>the package is built by the build bots</li>
+  <li>the package is released to the security mirror</li>
+  <li>security-announce mail is sent</li>
+</ol>
+
+<p>Different kind of vulnerabilities: public, private and complexes</p>
+
+<p>In practice, embargo delay the patch and not developed by many people</p>
+
+<p>Finally, the speaker introduces some example of vulnerabilities.</p>
+
+<p><strong>KRACK</strong>
+In August, the CERT contact Debian and share all the details, the draft of the paper, and proofs of concept. In October, wpa_supplicant maintainers contact Debian with their current work and patch proposals.
+To conclude, during the embargo, Debian can learn about the vulnerabilities and check that wpa_supplicant patches are working. At the end of the embargo in November, Debian published the update.</p>
+
+<p><strong>Meltdown</strong>: very painful for Debian because it was aware of the vulnerability during the embargo period. Debian got the info about Meltdown the same day as the public. So they can’t get prepared.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/debian-security-team/">Link to the presentation</a></p>
+
+<h2 id="a-practical-guide-to-differential-power-analysis-of-usim-cards">A Practical Guide to Differential Power Analysis of USIM Cards</h2>
+<h4 id="adrian-thillard-christophe-devine-manuel-san-pedro-anssi"><em>Adrian Thillard, Christophe Devine, Manuel San Pedro (ANSSI)</em></h4>
+
+<p>The speaker begins introducing Milenage, an algorithm used to derivate the credentials in SIM cards.
+Thanks to Milenage, the phone can authenticate itself on the operator network.
+If an attacker can get secrets from the SIM card, the impact on privacy is huge for the user.
+To do this, we can perform a power consumption variations analysis using an oscilloscope, also known as DPA.
+This allows an attacker to identify the execution steps of the algorithm.
+  from traces of references that are not always very clean because the clock of the card is not super precise.
+We must then re-align the peaks in order to have a proper basis of comparison. On the assumption that the data affects consumption.
+It requires about 4000 of traces to validate the hypothesis using a 400€ oscilloscope and python scripts. The number of traces required can be reduced using better equipment (e.g a 15000€ oscilloscope).</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/a_practical_guide_to_differential_power_analysis_of_usim_cards/">Link to the presentation</a></p>
+
+<h2 id="hacl-une-bibliothèque-de-cryptographie-formellement-vérifiée-dans-firefox">HACL* une bibliothèque de cryptographie formellement vérifiée dans Firefox</h2>
+<h4 id="benjamin-beurdouche-jean-karim-zinzindohoue"><em>Benjamin Beurdouche, Jean Karim Zinzindohoue</em></h4>
+
+<p>The speaker was a member of the INRIA PROCECO team.
+He will introduce HACL*, a formally verified crypto library.
+Writing crypto is not really easy.
+As example, we can have a look at the OpenSSL CVE list: side channel attack, buffer overflow…
+It is also true for NaCl (salt) which is a modern primitive cryptographic library.</p>
+
+<p>How to improve the situation. How can the community help? Using formal methods.
+Which approach to choose. 3 axes already exit:</p>
+
+<ul>
+  <li>using assembly: best performances, no compiler (no bug, no fault introduced), best control on a side channel, ut - specific to the platform</li>
+  <li>using C: portable, good performance, but introduce a compiler</li>
+  <li>using a high-level programming language: easy, but slow,</li>
+</ul>
+
+<p>Thus they propose HACL (hacl-star) : a library with a small size, but complete, autonomous, written in F<em>, C code generated from F</em> code, C code is published</p>
+
+<p>F* is a verification oriented language close to OCaml for proof automation.
+How to produce C code from F<em>?
+F</em> -&gt; Low* with F* compiler.
+Then KreMLin: Low* -&gt; C (correction proof)</p>
+
+<p>What is proved: memory safety, execution independency
+Safety memory thanks to F*. IF it compiles, the code is safe from the memory point of view.</p>
+
+<p>How to prove the code is correct?</p>
+
+<p>HACL* is faster than C implementation.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/hacl_cryptographie_formellement_verifiee_dans_firefox/">Link</a></p>
+
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2019/11/03/devoxx-2019/">
+            <small>Devoxx 2019</small>
+            <small>03 Nov 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2019/11/03/lfelc-2019/">
+            <small>Devoxx 2019</small>
+            <small>03 Nov 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+        
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73113604-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</html>

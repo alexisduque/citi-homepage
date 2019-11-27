@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+         Make your Bluetooth Low Energy IoT device more secure with Visible Light Communication &middot; Alexis Duque 
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/lanyon.css">
+    <link rel="stylesheet" href="/public/css/custom.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+    <!-- Icons -->
+    <!--   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png"> -->
+    <link rel="shortcut icon" href="/public/favicon.png">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+    <!-- <script src="https://txtpen.com/embed.js?site=<alexisduque>"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+</head>
+
+  
+  <body class="sidebar-overlay">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+
+<!-- Toggleable sidebar -->
+<div class="sidebar">
+
+    <div class="sidebar-logo">
+        <img src="https://www.gravatar.com/avatar/83124b745752d1a1b0ca2eee1af0bd48?s=240" />
+    </div>
+
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="https://github.com/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-github-alt fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://twitter.com/alexis0duque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://linkedin.com/in/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+          
+        <a href="https://scholar.google.fr/citations?user=P9BIZW0AAAAJ">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-google fa-stack-1x"></i>
+      </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="mailto:alexis.duque@insa-lyon.fr">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+        </a>
+        
+        <a href="/atom.xml">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x"></i>
+      </span>
+        </a>
+    </div>
+
+    <div class="sidebar-item">
+        <p>R&D and Security Leader @Rtone<br>Ph.D. #iot #vlc #security 💡🔑🚴‍</p>
+    </div>
+
+    <nav class="sidebar-nav">
+        <a class="sidebar-nav-item" href="/">Home</a>              
+        <a class="sidebar-nav-item" href="/conferences/">Conferences</a>       
+        <a class="sidebar-nav-item" href="/cv/">CV</a>         
+        <a class="sidebar-nav-item" href="/news/">News</a>           
+        <a class="sidebar-nav-item" href="/publications/">Publications</a>       
+        <a class="sidebar-nav-item" href="/research/">Research Interests</a>         
+        <a class="sidebar-nav-item" href="/talks/">Talks</a>                             
+
+        <!-- <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io/archive/v1.0.0.zip">Download</a>
+    <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span> -->
+    </nav>
+
+    <div class="sidebar-item sidebar-footer">
+        <p>
+            &copy; 2019. All rights reserved.<br>
+            <small><i>Last updated on October 22th, 2018.</i></small>
+        </p>
+    </div>
+</div>
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Alexis Duque</a>
+            <small>R&D and Security Leader at Rtone.</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Make your Bluetooth Low Energy IoT device more secure with Visible Light Communication</h1>
+  <span class="post-date">14 Sep 2017</span>
+  <p>I wrote a post on <a href="https://medium.com/@alexisduque/">Medium</a> about Bluetooth Low Energy security showing how Visible Light Communication can improve it.</p>
+
+<p>Follow <a href="https://medium.com/@alexisduque/make-your-bluetooth-low-energy-iot-device-more-secure-with-visible-light-communication-c2980006d2ac">this link</a>
+ to read it on Medium.</p>
+
+<h3 id="about-iot-security">About IoT security</h3>
+
+<p>Since the Internet of Things is still in the emerging phase, ensuring security
+and privacy is an important issue that must be addressed and resolved <strong>now</strong>.</p>
+
+<p>The number of IoT and connected objects grows exponentially, so their <strong>security
+exploits</strong> will have <strong>more and more repercussions</strong>, making them very
+<strong>attractive for the hackers</strong>. Recent news and the growing IoT track at
+security conferences such as <a href="https://www.blackhat.com/">Blackhat</a>, or
+<a href="https://www.defcon.org/">Defcon</a> perfectly illustrates this phenomenon.</p>
+
+<h3 id="about-bluetooth">About Bluetooth</h3>
+
+<p>In regards to Bluetooth, the SIG greatly enhanced the BLE security releasing at
+the end of 2014 the <strong>Bluetooth Core Specification 4.2.</strong> This update introduces
+<em>LE Secure Connections</em> pairing model with the numeric comparison method and
+the <em>Elliptical Curve Hellman-Diffie</em> (ECDH) algorithm for the key exchange.
+<br /> <em>LE Secure Connections</em> fixes BLE 4.0–1 exploits unveiled in 2012 by Mike
+Ryan at<a href="https://toorcon.net/"> TOORCON</a>
+(<a href="https://www.youtube.com/watch?v=4POOiVrdnX8">video</a>, <a href="http://lacklustre.net/projects/crackle/">crackle
+project</a>).</p>
+
+<p>Like <em>LE Legacy</em> pairing, <em>LE Secure Connection</em> defines several modes and
+levels of security (see section 5.2.4 Association Models of the Bluetooth Core
+Specification 4.2). Nonetheless, the available modes depend on the “IO
+Capabilities” — keyboard, display, button — that the pairing devices have.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1000/1*sltPpFvfg55pwJ6cRrBwEw.png" alt="" /></p>
+
+<p>The highest level of security, <em>Numeric Comparison</em> requires that both BLE
+devices have a keyboard and a display to confirm and compare a number displayed
+on both the peripheral and smartphone. An alternative and more convenient
+approach is using NFC.<br /> By placing a smartphone close to the BLE (and NFC)
+peripheral, NFC will automatically initiate the BLE pairing and keys exchange
+mechanisms to establish an authenticated and encrypted communication channel.</p>
+
+<p>However, the highly <strong>limited bill of material (BOM) cost</strong> or the <strong>PCB size</strong> prevents placing a screen, an interactive input, or an NFC antenna on such
+devices.<br /> As a consequence, they provide a weak level of security whereas the
+attacks targeting such smart objects are rising.</p>
+
+<p>To overcome this issue, we propose a technological <strong>solution based on Visible Light Communication (VLC)</strong> solution to assist the pairing and the secure
+connection setup between a BLE 4.2 peripheral and a smartphone.<br /> This
+solution targets low-cost and size-constrained IoT devices that need to setup
+the <em>Secure Connection</em> with <em>Numeric Comparison</em> to provide <strong>a high level of security even on BLE devices that have neither input and display nor NFC</strong>.</p>
+
+<h3 id="few-words-about-kiwink-and-vlc">Few words about Kiwink and VLC</h3>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*8pvCtdZwxeVch5MOBtPt9A.png" alt="" /></p>
+
+<p><a href="http://rtone.fr/">Rtone</a> has recently developed
+<a href="http://kwink.io/">Kiwink</a>®, a short range <strong>bidirectional Visible Light Communication</strong> system between an <strong>unmodified smartphone</strong> and a basic and <strong>cheap LED</strong>.<br /> <strong>Kiwink®</strong> uses the <strong>camera</strong> and the <strong>flashlight</strong> of an
+Android or iOS smartphone and does <strong>not need hardware modification in the IoT peripheral</strong> since it works with any micro-controller.</p>
+
+<blockquote>
+  <p><strong>In fact, bringing Visible Light Communication to your nRF52 BLE
+device just need a firmware update!</strong></p>
+</blockquote>
+
+<p>The communication range of such technology is tens of centimeters while the
+throughput is <strong>about 1kbps from the peripheral LED to the smartphone</strong> and <strong>50bps from the smartphone to the peripheral LED</strong>.</p>
+
+<p><strong>Kiwink®</strong> is a trademark and its technology patented.</p>
+
+<h3 id="improving-ble-security-with-kiwink-and-vlc">Improving BLE security with Kiwink and VLC</h3>
+
+<p>To solve the problem described above, we propose to take advantage of this
+VLC-based technology and ubiquitous LEDs, to provide <strong>a safe side channel</strong> to
+acknowledge or display a confirmation code and establish a BLE Secure
+Connection. We can also envisage to transmit a larger key if another Secure
+Connection mechanism is used.</p>
+
+<p>This out of band key exchange is thus <strong>safer than NFC against passive
+eavesdropper</strong> since the light signal is highly directive and easy to obfuscate.</p>
+
+<h4 id="in-practice-the-connection-establishment-should-work-as-follow">In practice, the connection establishment should work as follow:</h4>
+
+<ol>
+  <li>The smartphone starts sending a BLE Secure Connection request to the peripheral</li>
+  <li>The smartphone and the peripheral proceeds to the Secure Connection
+Establishment with Numeric Comparison according to the BLE 4.2 standard</li>
+  <li>While the smartphone confirmation number appears on the smartphone screen, the
+peripheral LED starts lightning and transmits its number.</li>
+  <li>By placing its smartphone above its screen, the application decodes the signal
+and displays the peripheral number on the smartphone screen.</li>
+  <li>The user confirms that both codes are equal.</li>
+  <li>The smartphone sends the acknowledgment to the peripheral using the flashlight.</li>
+  <li>The peripheral decodes the acknowledgment signal and the secure connection
+establishment can proceed according to the BLE 4.2 standard.</li>
+</ol>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*OU9UmTaxbAnUWrJpK9AVcQ.png" alt="" /></p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>We have shown that Kiwink and VLC offer the possibility to setup a <em>SecureConnection</em> with <em>Numeric Comparison</em> or <em>Out-Off-Band authentication</em> on
+low-cost and size-constrained IoT devices that <strong>have neither input and display nor NFC.</strong></p>
+
+<blockquote>
+  <p><strong>Our solution brings a high level of security on BLE devices that would have
+been completely unsafe otherwise. The costs of this major improvement are negligible since Kiwink only relies on a cheap LED and a piece of software</strong>.</p>
+</blockquote>
+
+<p>Besides, many application fields and use cases of VLC exists like access
+control, device-to-device communication, or accurate indoor localization using
+ceiling LEDs (<a href="http://kiwink.io/">Kiwink website</a> gives further information
+about VLC).</p>
+
+<p>Finally, feel free to give your feedback about that. We are are waiting for your
+comments and suggestions!</p>
+
+<p><em>You can also read this post and engage the conversation on the <a href="https://devzone.nordicsemi.com/blogs/1170/make-your-bluetooth-low-energy-iot-device-more-sec/">NordicDeveloperZone</a></em>.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2019/11/03/devoxx-2019/">
+            <small>Devoxx 2019</small>
+            <small>03 Nov 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2019/11/03/lfelc-2019/">
+            <small>Devoxx 2019</small>
+            <small>03 Nov 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+        
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73113604-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</html>
