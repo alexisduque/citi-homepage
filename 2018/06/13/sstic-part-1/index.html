@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+         SSTIC Part 1 &middot; Alexis Duque 
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/lanyon.css">
+    <link rel="stylesheet" href="/public/css/custom.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+    <!-- Icons -->
+    <!--   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png"> -->
+    <link rel="shortcut icon" href="/public/favicon.png">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+    <!-- <script src="https://txtpen.com/embed.js?site=<alexisduque>"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+</head>
+
+  
+  <body class="sidebar-overlay">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+
+<!-- Toggleable sidebar -->
+<div class="sidebar">
+
+    <div class="sidebar-logo">
+        <img src="https://www.gravatar.com/avatar/83124b745752d1a1b0ca2eee1af0bd48?s=240" />
+    </div>
+
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="https://github.com/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-github-alt fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://twitter.com/alexis0duque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>
+        </a>
+         
+        <a href="https://linkedin.com/in/alexisduque">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+          
+        <a href="https://scholar.google.fr/citations?user=P9BIZW0AAAAJ">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-google fa-stack-1x"></i>
+      </span>
+        </a>
+        
+    </div>
+    <div id="contact-list" style="text-align:center">
+        
+        <a href="mailto:alexisd61@gmail.com">
+            <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+        </a>
+        
+        <a href="/atom.xml">
+            <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x"></i>
+      </span>
+        </a>
+    </div>
+
+    <div class="sidebar-item">
+        <p>Director of Research @Rtone<br>Ph.D. #iot #ml #vlc #security 💡🔑🚴‍</p>
+    </div>
+
+    <nav class="sidebar-nav">
+        <a class="sidebar-nav-item" href="/">Home</a>              
+        <a class="sidebar-nav-item" href="/conferences/">Conferences</a>       
+        <a class="sidebar-nav-item" href="/cv/">CV</a>         
+        <a class="sidebar-nav-item" href="/news/">News</a>           
+        <a class="sidebar-nav-item" href="/publications/">Publications</a>       
+        <a class="sidebar-nav-item" href="/research/">Research Interests</a>         
+        <a class="sidebar-nav-item" href="/talks/">Talks</a>                                  
+
+        <!-- <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io/archive/v1.0.0.zip">Download</a>
+    <a class="sidebar-nav-item" href="https://github.com/alexisduque/alexisduque.github.io">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span> -->
+    </nav>
+
+    <div class="sidebar-item sidebar-footer">
+        <p>
+            &copy; 2020. All rights reserved.<br>
+            <small><i>Last updated on September 15th, 2020.</i></small>
+        </p>
+    </div>
+</div>
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Alexis Duque</a>
+            <small>Director of Research at Rtone.</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">SSTIC Part 1</h1>
+  <span class="post-date">13 Jun 2018</span>
+  <p>From the 13 to 15 June, I was happy to attend for the first time the 0X10 edition of the SSTIC, that traditionally takes place in Rennes every year in June.
+This year, the event gathered 800 participants, mostly security experts, pentesters or researcher, in the luxurious and brand new <em>Couvent des Jacobins</em>.</p>
+
+<p>I will share some of the notes I took during these 3 days of conferences. Unfortunately, I only report the presentations relevant to my field, or that caught my attention: <em>#iot #embedded #hardware #sidechannel</em></p>
+
+<p>Note that the conference proceedings and video recording are already available on the <a href="sstic">SSTIC web site</a>. Awesome!</p>
+
+<h2 id="opening-keynote-closed-heterogenous-platforms-and-the-defensive-reverse-engineers-dilemma">Opening Keynote: Closed, heterogenous platforms and the (defensive) reverse engineers dilemma</h2>
+<h5 id="halvar-flake">Halvar Flake</h5>
+
+<p>“Halvar Flake” gave us a retrospective on the reverse-engineering from his experiences. In fact,  tools have changed a lot since it started 20 years ago.</p>
+
+<p>IDA has not changed a lot in 20 years and remains his favorite tool for binary reverse engineering. After 13 years of RE, Halvar made a break of 6-7 years during which he managed dev and security teams. And he came back to RE:</p>
+
+<p>Many things have evolved: the solvers have become usable to generate entries for programs, a lot of tools for RCE has been developed: r2, frida, angr, …
+But when you try them on real cases, it does not work.
+Example with MPENGINE.DLL for which is difficult to obtain coverage traces.
+The live debug on mobile systems are difficult to get, etc.</p>
+
+<p>Why does not it work very well? Some reasons are external to the reverse community, others are related to this community.
+Platform providers like iOS or Android sacrifice “debuggability” to stop the reverse for “security” purposes.
+However, that is in favor of “big” players (hackers groups or state hackers) who have the means.
+POn the other side, defenders who do not have the means are left behind.</p>
+
+<p>Example with iOS, for which you must set up ridiculous and expensive hacks to debug an application correctly.
+Manufacturers are often advised to remove the JTAG, even when physical attacks are not part of the threat model.
+Consequently, we lose observability, breaking the analysis and investigation capabilities of these devices.</p>
+
+<p>Reducing the access to debugging means on a device decreased the population able to work on its security.
+In fact, fewer hackers make the curing of a platform slower, which benefits real attackers.</p>
+
+<p>Time-to-market has forced developers to reduce the dev, deployment &amp; testing time.
+So they often work on WIP devices, not very debuggable.
+That complicates the diagnosis of bugs and threats in these applications, reducing their safety.</p>
+
+<p>The market for RE products is very small and as a result support only between 12 to 60 engineers in the world.</p>
+
+<p>The “technical” cost of designing RE tools is not covered by benefits because of the small market</p>
+
+<p>Also, RE scripts, are often written in a hurry and become later tools used in the long run because anything else exists.
+The problem is that the RE community does not take the time to think about the future and invest in it. For instance, they do not pay attention to the memory footprint of scripts, or the ability to distribute the computation on multiple nodes.</p>
+
+<p>In addition, a large number of RE frameworks have similar features but do not cover all your needs.
+Some of them are far from stable, or CPU/memory efficient.
+Ha said that <em>“It looks like the JavaScript community”</em>, and a lot of stuff is done twice or three times, on X frameworks.
+And they are sometimes developed in a hurry, just before CFP deadlines.</p>
+
+<p>Also, in the literature, many problems have been “solved”, but in reality, for everyday work, these tools are far from keeping their promises.
+In fact, published results are rarely reproducible, data are not available, and sources are rarely published.
+Consequently, when we read a paper, we can no longer distinguish if the author exaggerates, or if the problem has been really solved.</p>
+
+<p>The RE tools often focus on the source code and the recovery of the latter, but rarely on the understanding of the software package we reverse.</p>
+
+<p>Finally, Halvar introduce some proposals:</p>
+
+<ul>
+  <li>it is necessary that the developers of software or hardware platforms make them debuggable to facilitate the analysis.</li>
+  <li>it would be necessary to find a way to exchange the RE data, using a standard step to move from the binary to the assembler, to the assembler to CFG, etc</li>
+  <li>intermediate representation adapted to the different data used and generated by the reverse tools should be standardized. Thus, we could switch from one tool to another without having to re-develop all existing scripts &amp; tools for this new framework</li>
+  <li>a Linux distribution for the reverse as there is for the pentest, on which we could have all the necessary tools</li>
+  <li>to improve the reliability of RE tools, we need data to test and validate them.</li>
+</ul>
+
+<p>With the cloud, any software can run on machines all over the world. But debugging in the cloud is painful because there is no “cloud debugger” to manage such system.
+Dealing with CPU/GPU/μC/FPGA infrastructures is a big challenge for RE tools.
+These components are not well documented. Thus, a vulnerability on this type of components will be very difficult to manage for defenders (e.g. Spectre / Meltdown …)</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/2018_ouverture/">Link</a></p>
+
+<h2 id="backdooring-your-server-but-its-bmc-the-hpe-ilo4-case">Backdooring your server, but its BMC: the HPE iLO4 case</h2>
+<h5 id="alexandre-gazet-fabien-perigaud-joffrey-czarny-airbus">Alexandre Gazet, Fabien Perigaud, Joffrey Czarny (Airbus)</h5>
+
+<p>This talk presents the pentest of the iLO4 HP system and some critical vulnerabilities the author found.
+iLO systems are widely used by many server manufacturers as a stand-alone and independent ARM-based chipset with its own RAM and network interface.
+This system starts as soon as the server is powered.
+These iLOs are exposed on production VLANs, and often exposed even on the internet.
+A first exploit allows them to retrieve information in memory on the system managed by the iLO and write code arbitrarily to obtain a shell via netcat on the main server.</p>
+
+<p>The iLOs web service have been the subject of two CVEs in 2017.
+The webservice makes a massive use of <code>scanf</code> to parse HTTP headers.
+Unfortunately, there are some buffer overflows, with one in the <code>Connection</code> header that allows an attacker to overwrite a variable, ann thus bypass the authentication and access the REST API of the iLO with admin rights.</p>
+
+<p>Relying on this RCE, the speakers have worked on the ILO firmware to patch the bootloader, to later patch the kernel and insert a backdoor in the userland, in the iLO flash memory.
+The authors choose the web server as the target to install the backdoor since it has all the communication primitives, along with a DMA access to the memory of the main machine.</p>
+
+<p>To install the backdoor in the Linux system, an attacker must create a thread in the kernel, allocate memory for the communication channel between the iLO and the Linux, and set up the execution primitives of the commands received on the memory buffer</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/subverting_your_server_through_its_bmc_the_hpe_ilo4_case/">Link</a></p>
+
+<h2 id="t-brop---taint-based-return-oriented-programming">T-Brop - Taint-based Return Oriented Programming</h2>
+<h5 id="colas-le-guernic-francois-khourbiga-anssi">Colas Le Guernic, Francois KHOURBIGA (ANSSI)</h5>
+
+<p>The speaker began introducing the exploitation of a buffer overflow vulnerability by re-using the existing code in the binary. They reminded the protection that must be circumvented.</p>
+
+<p>Code reuse attacks reuse bits of code, called <em>gadget</em>.
+These gadgets often en with a <code>ret</code> instruction.
+The DEP is not enough, it must also use the CFI, etc …</p>
+
+<p>To find these gadgets in a binary, 2 approaches exist:</p>
+<ul>
+  <li>the syntactical approach, where the tool makes a <code>grep</code> in the program (e.g. rp++)</li>
+  <li>the symbolic approach, where the tool does it in symbolic. It is more efficient but is very costly in time (e.g. angrop).</li>
+</ul>
+
+<p>With RP ++, it is fast but we are fig to build the ROP chain using <code>grep</code> <em>à la mano</em> the gadgets we want.
+With angrop, it is very and can take between 15 in <em>fast mode</em> and hours.</p>
+
+<p>In order to take the best of these 2 approaches, the speakers propose, <em>T-Brop</em>, a hybrid approach that is faster than symbolic analysis, and more expressive than syntactical approaches.
+So we have a tool less efficient than syntactic but faster than the symbolic.</p>
+
+<p>T-Brop is a little faster (7min) and offers some interesting gadgets based on <code>rsp</code> &amp; <code>esp</code>, or data above the stack.
+In a nutshell, Angrop is good for <em>highway</em> cases, RP++ is for regexp lovers, and T-Brop sometimes offers some tricky stuff.</p>
+
+<p>T-Brop is based on hue to manage which register depends on which other in the chain of gadgets.
+This influence is represented as dependency matrices for each gadget.
+To determine the impact of the sequence of gadgets on the registers, it is enough to make a product of matrix.
+By generalizing that, it is possible to identify whether or not it is possible to influence a target register by linking together a set of gadgets, and which registers to target in order to use the ropchain we built.
+T-Brop implementation is based on python3 and is available on <a href="https://github.com/DGA-MI-SSI/T-Brop">Github</a></p>
+
+<p><a href="https://www.sstic.org/2018/presentation/T-Brop/">Link</a></p>
+
+<h2 id="risques-associés-aux-signaux-parasites-compromettants--le-cas-des-câbles-dvi-et-hdmi">Risques associés aux signaux parasites compromettants : le cas des câbles DVI et HDMI</h2>
+<h5 id="emmanuel-duponchelle-pierre-michel-ricordel">Emmanuel DUPONCHELLE, Pierre-Michel Ricordel</h5>
+
+<p>There are radio signals transmitted willingly (radio, WiFi, Bluetooth, etc), and radio signals emitted unbeknownst of the system.
+For example, the cathodic screens of the past that generated radiations that could be received and decoded by means of an antenna.
+Now with the Software Defined Radio (SDR), capturing these signals only requires a small dongle with a tiny antenna.
+Although cathodic screens have disappeared, many components emit on our behalf, especially video cables between computer and screen.
+The speakers present a demo using a small USRP and the <strong>tempestsdr</strong>, SDR tool to recover this kind of signal.
+The speakers can intercept the signal of their own laptop they were using during the presentation.</p>
+
+<p>The talk follows with some insights on VGA, HDMI and DVI signals.
+Faster is the potential variation, stronger the radiation. In VGA, it does not go fast, so the fronts are soft, and the radiation is weak.
+With DVI, the frequency is fast, and the changes of fronts are strong, and so the radiation level is high.</p>
+
+<p>To avoid radiation, the armor must be complete and if there is a hole, it will leak … and so your screen with.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/risques_spc_dvi_et_hdmi/">Link</a></p>
+
+<h2 id="three-vulns-one-plug">Three vulns, one plug</h2>
+<h5 id="gwenn-feunteun-olivier-dubasque-yves-duchesne-acceis">Gwenn Feunteun, Olivier Dubasque, Yves Duchesne (Acceis)</h5>
+
+<p>The 2 speakers introduce the reverse engineering of a WiFi smart plug and the threat they found in the WiFi PSK exchange mechanism between the plug and the smartphone.</p>
+
+<p>The “smart” plug use WiFi with a “smart” pairing technology avoiding to manually enter on the plug the PSK of the WiFi AP.
+That is not based on WPS but the configuration is achieved using an android application.
+In the application, the user must type the WiFi password, and choose the plug that has been detected by the application.</p>
+
+<p>The authors begin by sniffing the network and look at the WiFi packets exchanged to send the security information.
+They found broadcast messages that consist of a series of fixed-size messages and then variable-sized packets.
+If fact, the plug manufacturer built a side channel using the size of the encrypted broadcast packets to encode the PSK.
+Then, reading the doc of the WiFi module, we can see that the wireless module is listening on a UDP port and accepts AT commands that can everything in the WiFi module configuration.
+Also, on the PCB, a UART can be leveraged to recover the key of the WiFI network, or to change the module configuration.
+The speakers have developed a <em>patch</em> to enable WPS sending the right AT command with an Arduino.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/three_vulns_one_plug/">Link</a></p>
+
+<h2 id="escape-room-pour-la-sensibilisation-à-la-sécurité-informatique">Escape room pour la sensibilisation à la sécurité informatique</h2>
+<h5 id="eric-alata-erwan-beguin-vincent-nicomette-insa-toulouse">Eric Alata, Erwan Beguin, Vincent Nicomette (INSA Toulouse)</h5>
+
+<p>The speaker presented an escape room his team developed in a student project at the INSA Toulouse.
+The escape room aims to teach the good habits of computer security and how to protect themselves from current social engineering attacks.
+Two scenarios are proposed. The first one aims to secure a working environment.
+In the second one, 3 participants must steal documents from a company.</p>
+
+<h2 id="du-pcb-à-lexploit-étude-de-cas-dune-serrure-connectée-bluetooth-low-energy">Du PCB à l’exploit: étude de cas d’une serrure connectée Bluetooth Low Energy</h2>
+<h5 id="damien-cauquil-digital-security">Damien Cauquil (Digital Security)</h5>
+
+<p>During this talk, Damien Cauquil (<a href="https://twitter.com/virtualabs">@virtualabs</a>) introduce a methodology to conduct the pentest of an IoT device, considering hardware and software attacks.
+Unfortunately, the speaker laptop rapidly went wrong and the presentation was a bit hashed.
+In any case, I highly recommend to read the paper in the conference proceedings.</p>
+
+<p>Hacking hardware is not always as easy as taking a logical parser, wiring a uart, and so getting a shell.
+In practice, a methodology is needed:</p>
+
+<ol>
+  <li>Functional analysis of the device to be tested</li>
+  <li>Hardware vulnerabilities research</li>
+  <li>PCB reverse engineering</li>
+  <li>Firmware, mobile application collecting and disassembly.</li>
+  <li>Software vulnerabilities research</li>
+</ol>
+
+<p>Damien then applies his methodology, giving a smart lock use case.
+Studying the lock usage is essential, and a careful observation gives the following insights:</p>
+
+<ul>
+  <li>18 hours of autonomy implies the use of a low energy technology</li>
+  <li>there are no electrical protections against the over voltage on the USB port</li>
+  <li>there is no component to detect the position of the rotor of the lock, which means that the software does not know in which position is the lock</li>
+  <li>on the lock PCB, there is a nRF52 BLE module and an engine driver for the motor.</li>
+</ul>
+
+<p>Then, the interconnections between the components can be determined by using a multimeter or studying their datasheet.
+Once the JTAG / UART / SWD are identified, the attacker can try to recover the firmware from the MCU, and begin its analysis.
+The firmware can also be recovered at the network level or on the smartphone during the firmware update.</p>
+
+<p>The firmware, as the Android application, can be disassembled using IDA PRO and JADX respectively.</p>
+
+<p>After a quick look on the code, Damien discovered that the authentication part of the lock is broken.
+In fact, the <em>pseudo-random</em> nonce used for encryption is … always set to 1.
+Also, the BLE connection between the smartphone does not require pairing meaning that a man in the middle can easily be performed.</p>
+
+<p>Finally, the speaker presents this BLE MITM attack using the <a href="https://github.com/DigitalSecurity/btlejuice">BtleJuice</a> tool it developed.
+The attack allows him to capture the authentication token, and to replay it.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/du_pcb__lexploit_cas_dune_serrure_connecte_ble/">Link</a></p>
+
+<h2 id="wookey-usb-devices-strike-back">Wookey: USB devices strike back</h2>
+<h5 id="arnauld-michelizza-jérémy-lefaure-mathieu-renard-philippe-thierry-philippe-trebuchet-ryad-benadjila">Arnauld Michelizza, Jérémy Lefaure, Mathieu Renard, Philippe Thierry, Philippe Trebuchet, Ryad Benadjila</h5>
+
+<p>The authors present a device that is robust against BadUSB attack.
+Their device should not be too expensive and be shareable in open-hardware / open-source.</p>
+
+<p>As part of the USB standard, it is the device that declares its functionality to the OS.
+Thus if the device is lying on its features, the OS keeps trusting the key: that is the BadUSB attack scenario.
+Along with this attack, the speakers also want to protect themselves against the theft of crypto data, so it needs a SoC solid enough to allow their implementation in a safe way.
+The use of a secure-element to store encryption keys, a keyboard/touchscreen independent of the host for entering the pin code, a μSD slot to host the storage, and two USB ports.</p>
+
+<p>The firmware of the keys contains a bootloader firmware and a backup firmware in case of a glitch.
+One part is reserved for crypto signature, and a release mechanism triggerable by pressing a physical button.</p>
+
+<p>Each software module managing each function of the keys must be isolated from the others.
+The speakers implement their own micro-kernel, called Ewok, and manages application modules of crypto, USB, pin code, secure-element.
+The MPU is used to define rights and attributes on memory regions to ensure isolation without an MMU.</p>
+
+<p>To secure the syscall, which is the only attack surface between the app code and the kernel, the speakers used Ada and SPARK.
+Thus, depending on the criticality of a functionality, the speakers chose the appropriate programming language, from the least restrictive (the C), to the most constrained (SPARK).</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/wookey_usb_devices_strike_back/">Link</a></p>
+
+<h2 id="dump-de-flash-sur-circuit-imprimé">Dump de flash sur circuit imprimé</h2>
+<h5 id="emma-benoit-guillaume-heilles-philippe-teuwen">Emma Benoit, Guillaume Heilles, Philippe Teuwen</h5>
+
+<p>The speakers give their feedback on developing their own chip adapter to dump the memory of a flash chip.
+When we want to recover the content of a flash, we often try to connect to the pins of the chip and dump.
+But sometimes we come across a chip whose pins are under the chip, so we must unseat the flash, and then use the right adapter or make our own.
+The speaker decided to make his own.
+The authors designed a PCB using KiCAD and present few methods to build it:</p>
+
+<ul>
+  <li>a chemical method</li>
+  <li>using a CNC to cut the tracks directly into the copper, then adding a green insulating paste</li>
+</ul>
+
+<p>To solder a BGA component by hand, it is necessary to use a microscope, and it looks very painful.</p>
+
+<p>As soon as the homemade chip adapter is built hardware attack, we can micro solder the “adapted”</p>
+
+<p>The global investment cost is about 1200 € for both techniques, the per PCB cost is negligible.
+If the BGA component pitch is very tiny (~um), a CNC laser must be used to gain precision.</p>
+
+<p><a href="https://www.sstic.org/2018/presentation/attacking_serial_flash_chip_case_study_of_a_black_box_device/">Link</a></p>
+
+<hr />
+
+<p>That’s all for the first part! But you can <a href="/2018/06/15/sstic-part-2/">go to the 2nd part of my notes</a></p>
+
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2020/10/04/itu/">
+            <small>Webinar on mobile traffic decomposition using Deep Learning</small>
+            <small>04 Oct 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2020/09/01/mlcs-2020/">
+            <small>Paper accepted at MLCS'20</small>
+            <small>01 Sep 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+        
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73113604-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</html>
